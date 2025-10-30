@@ -1,0 +1,35 @@
+# ==========================================
+# 🧩 .gitignore for Live Library 24/7 Project
+# ==========================================
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment files
+.env
+backend/.env
+
+# Virtual environment
+venv/
+.env.local
+
+# macOS / system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+frontend/.next/
+frontend/out/
+npm-debug.log*
+
+# Test artifacts
+coverage/
+*.log
+
+# VS Code workspace settings
+.vscode/
