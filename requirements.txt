@@ -1,0 +1,29 @@
+# ==========================================
+# 📚 Live Library 24/7 Project Dependencies
+# ==========================================
+
+# --- Core Backend ---
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# --- Database ORM + MySQL ---
+SQLAlchemy==2.0.35
+PyMySQL==1.1.1
+
+# --- Data & Analytics ---
+pandas==2.3.3
+numpy==2.2.6
+
+# --- Frontend & Visualization ---
+streamlit==1.50.0
+matplotlib==3.10.7
+plotly==6.3.1
+altair==5.5.0
+
+# --- Configuration ---
+python-dotenv==1.0.1
+
+# --- Utilities ---
+pytz==2025.2
+requests==2.32.5
+Jinja2==3.1.6
