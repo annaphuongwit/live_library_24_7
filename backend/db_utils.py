@@ -1,5 +1,5 @@
 import pandas as pd
-from backend.database import get_db
+from database import get_db
 
 def fetch_courses():
     query = """

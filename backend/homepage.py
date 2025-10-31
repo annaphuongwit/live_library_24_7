@@ -56,33 +56,7 @@ if st.session_state.current_page == "home":
                         <p>{branch.description}</p>
                     </div>
                     """, unsafe_allow_html=True)
-        # if branches:
-        #     icons = ["🧘", "💪", "💬", "💰"]
-        #     # Temporary sample images for each branch (you can replace with your own URLs)
-        #     branch_images = [
-        #         "https://cdn.pixabay.com/photo/2017/08/06/09/53/yoga-2592406_1280.jpg",        # Inner
-        #         "https://cdn.pixabay.com/photo/2017/06/14/11/44/people-2404069_1280.jpg",      # Health
-        #         "https://cdn.pixabay.com/photo/2016/03/23/04/01/meeting-1271780_1280.jpg",     # Social
-        #         "https://cdn.pixabay.com/photo/2016/11/29/03/53/money-1865849_1280.jpg"        # Finance
-        #     ]
 
-        #     cols = st.columns(4)
-        #     for i, branch in enumerate(branches):
-        #         with cols[i]:
-        #             # Each card triggers navigation
-        #             if st.button(f"{icons[i]} {branch.branch_name.title()}"):
-        #                 go_to(branch.branch_name.lower())
-
-        #             # Show branch image and description inside styled card
-        #             st.markdown(f"""
-        #             <div class="branch-card">
-        #                 <img src="{branch_images[i]}" alt="{branch.branch_name}" class="branch-image">
-        #                 <p>{branch.description}</p>
-        #             </div>
-        #             """, unsafe_allow_html=True)
-
-        
-        # end
         else:
             st.warning("⚠️ No branches found in database.")
     except Exception as e:
@@ -90,16 +64,6 @@ if st.session_state.current_page == "home":
 
     st.markdown("<div class='section_buttons'>", unsafe_allow_html=True)
     col1, col2 = st.columns([1,1])
-
-    # with col1:
-    #     if st.button("📚 Analytic Management"):
-    #         go_to("analytics")   # ✅ go to new analytics page
-
-    # with col2:
-    #     if st.button("🚀 Administrative Management"):
-    #         go_to("administrative")   # (optional future page)
-
-    # inside your layout_homepage.py (replace your current button section)
 
     left_col, _ = st.columns([2, 4])  # left column + empty space to keep them on the left
 
