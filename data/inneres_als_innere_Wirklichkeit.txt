@@ -1,0 +1,1051 @@
+Lernen als innere Wirklichkeit. Über den Zusammenhang zwischen Imagination, Lernen und
+
+Einführung
+Was bedeutet "Imagination" in pädagogischer Hinsicht und welche Rolle spielt das Konzept der
+Imagination in der erziehungswissenschaftlichen Fachdiskussion? Seit einigen Jahren läßt sich, nicht
+zuletzt angeregt und unterstützt durch die Bemühungen von Eva Madelung und der Stiftung für Bildung
+und Behindertenförderung, ein wachsendes pädagogisches Interesse an diesem Thema beobachten.
+Wer sich allerdings die Bedeutung der Imagination oder des Vorstellungsdenkens für Wahrnehmung,
+Denken, Handeln und Lernen auch nur in Grundzügen klarmacht, wird erstaunt sein, daß dieses Thema
+im Gegensatz zur neuesten Diskussion weder dem Begriff noch der Sache nach in der Ideen-, Problem-
+und Konzeptgeschichte der Pädagogik des 20. Jahrhundert einen größeren Stellenwert besitzt. Die
+"Enzyklopädie Erziehungswissenschaft" (Lenzen 1983 ff.) kennt den Begriff überhaupt nicht, der
+verwandte deutsche Begriff "Vorstellung" oder "Vorstellungsbildung" taucht dort nur im Zusammenhang
+mit der Bedeutung des Zeichnens auf (Bd.4, S. 670); Vergleichbares gilt für das neueste
+"Handwörterbuch Pädagogische Psychologie" (Rost 2001). Auch der ideen- und wortgeschichtlich
+wichtige Zusammenhang zwischen Bild - Bildung - Einbildung - Einbildungskraft wird nur in
+Spezialdiskussionen aufgenommen (vgl. Pazzini 1988). Problemgeschichtlich ist es bemerkenswert, daß
+die Pädagogik sich um das geistige Vermögen der Imagination, der Vorstellungsfähigkeit, nicht
+systematisch kümmert - obwohl es um eine zentrale Funktion unseres Erkennens, Denkens, Handelns,
+unseres In-der-Welt-Seins schlechthin geht. Offensichtlich ist dies nicht zuletzt Teil einer Art von
+flächendeckender Verdrängung, eine Folge der für die technisch-wissenschaftliche Modernisierung
+typischen Prozesse systemhafter Rationalisierung - mit nachhaltigen Auswirkungen auf das Verständnis
+von Wissen, Aufklärung und Vernunft und ebenso auf dasjenige von Bildung, Lernen und Schule, was
+zu entsprechenden pädagogischen Engführungen in Theorie und Praxis beigetragen hat. (Vgl. dazu
+grundlegend Irmert-Müller 1993, Kamper 1990).2
+Es ist das Zerrbild einer gleichsam technisch durchrationalisierten, auf die kleinschrittige Vermittlung
+leicht überprüfbaren Faktenwissens und elementarer Fertigkeiten angelegten Stoff- und Paukschule, die
+einer solchen Ausprägung von Pädagogik als Systemrationalität entspricht. An kritischen Analysen,
+Gegenentwürfen, alternativen Konzepten zu diesem Muster der "alten Schule", wie sie von
+Protagonisten der Reform schon an der Wende zum zwanzigsten Jahrhundert genannt worden ist, hat es
+1 Dieser Text erscheint in etwas veränderter Form in Rentschler/ Madelung/ Fauser 2002.
+Gundela Irmert-Müller danke ich für umfassende Kritik und Anregungen auch bei der Arbeit an
+diesem Text.
+2 Für diese Verdrängungsthese spricht, daß i n dem berühmten Encyklopädischen Handbuch der
+Pädagogik von Wilhelm Rein, dessen erste Auflage zwischen 1894 und 1899 erschienen ist, der
+Begriff der "Vorstellung" und die Bedeutung von Vorstellungen in sehr unterschiedlichen Kontexten
+ausführlich thematisiert werden (Flügel 1909). Die dortige Diskussion schließt an die
+geisteswissenschaftliche Psychologie Herbarts an, die dann in der Folgezeit vom Hauptstrom der
+naturwissenschaftlich orientierten Psychologie(en) auch in der Pädagogik gleichsam fortgeschwemmt
+wird. Erst heute scheint - nach der kogitiven Wende in der Psychologie - ein genuin pädagogischer
+Zugang zu diesem Thema wieder möglich zu sein.
+2
+nie gefehlt. Vor allem die reformpädagogische Tradition hat mit ihrer Vielfalt von Erfindungen,
+Konzepten und Anregungen die Schul- und Erziehungsarbeit seit über hundert Jahren und bis zur
+Gegenwart entscheidend bereichert und so dazu beigetragen, daß an Einseitigkeiten der alten Schule
+nicht nur kritisiert, sondern an ihrer Überwindung produktiv gearbeitet worden ist. Konzepte wie
+"Praktisches Lernen" und "Demokratisch Handeln", die zu den direkten Vorläufern und Nachbarn des
+"imaginativen Lernens" gehören und ganz wesentlich auf Anregungen und Förderung duch die
+Geschwister Bosch zurückgehen3, sind hier zu nennen.
+Richtungsweisend war und ist dabei immer das Bemühen, die schöpferischen Fähigkeiten, die
+individuellen Möglichkeiten und Schwierigkeiten der Kinder mehr zu beachten und die Erfahrungs- und
+Lebensferne der Schule zu überwinden. Didaktische Elemente wie Projektarbeit, Formen praktischen
+Lernens, methodische Vielfalt und Verbindungen zwischen der Schule und außerschulischen Lernorten
+gehören heute zum selbstverständlichen Bestandteil guter Schulen.4 Freilich werden reformpädagogische
+Bemühungen bis heute - und teilweise heute wieder neu - mit pauschalen und verfehlten Vorwürfen
+bekämpft, weil sie angeblich antirationalen oder antiaufklärerischen Überzeugungen oder Bestrebungen
+folgen und das Risiko eines Rückfalls hinter bewahrenswerte Errungenschaften der Moderne bergen.
+Diese Diskussion soll hier nicht geführt werden.5 Mit der Imagination oder dem Vorstellungsdenken
+sollen Formen und Ressourcen der Wahrnehmung, des Denkens und des Handelns ins Zentrum der
+Aufmerksamkeit gerückt werden, die sich von logisch-deduktiven, kausalen, linearen, abstrakten
+Formen des Denkens unterscheiden und auch durchaus kritisch abheben. Wie die Beiträge dieses
+Bandes ebenso wie die zahlreichen inzwischen vorliegenden Publikationen zum Thema erkennen lassen,
+wird damit der Blick auf Dimensionen einer im vollen Sinne humaner Bildung und humanen Lernens
+gelenkt, die bisher viel zu wenig gesehen werden.
+Daß zur Imagination Bereiche, Erscheinungsformen und Inhalte des Denkens gehören, die sich logischer
+Analyse, begrifflicher Einordnung oder einer didaktisch-methodischen Steuerung und Domestikation im
+Stil der Stoff- und Buchschule nicht fügen, widerspricht dabei dem Anspruch auf Vernunft oder
+"Rationalität" keineswegs6, sondern ist Ausdruck der individuellen, subjektiven, der konstruktiv-
+3 Die Geschwister Robert Bosch und Dr. Eva Madelung haben im Zusammenhang mit ihrer
+Tätigkeit in der Robert Bosch Stiftung und der Stiftung für Bildung und Behindertenförderung seit
+den frühen achtziger Jahren bis heute immer wieder wichtige Anregungen gegeben, die beim
+"praktischen Lernen" und beim "imaginativen Lernen" mitursächlich waren für die Einrichtung und
+Entwicklung von entsprechenden schulpädagogischen Projekten in Wissenschaft und Praxis, und sie
+haben zur ideellen und materiellen Förderung dieser Projekte über viele Jahre nachhaltig beigetragen.
+4 Vgl. dazu Tillmann 1989; Lernen 1986; Verantwortung 1992; Projektgruppe 1998; Flitner
+1999; Beutel/ Fauser 2001; Fauser 2001
+5 Einen guten und urteilssicheren Überblick hierzu bietet Ullrich 1990, 1996. Vgl. Fauser 1995,
+2001.
+6 In der gegenwärtigen sozialwissenschaftlichen und philosophischen Diskussion wird der Begriff
+der "Rationalität" im allgemeinen in einem doppelten Sinn verwendet. Zum einen als kritisch-
+analytischer Begriff, mit dem die modernen Einseitigkeiten und Verkürzungen von Ideologien,
+Systemfunktionen oder auch Bildungs- und Lernvorstellungen gekennzeichnet werden, zum anderen
+aber zugleich als Platzhalter für den älteren Begriff der "Vernunft", das heißt als Frage nach
+begründbarem Handeln und Argumentieren mit dem Anspruch universell gültiger Maßstäbe.
+Richtungsweisend hierfür Habermas 1981.
+3
+generativen Qualität menschlichen Denkens und Lernens. Die vielleicht provozierendste Konsequenz
+dieser Auffassung ist darin zu sehen, daß sie ein im Alltag und in der Tradition gleichermaßen verengtes
+und fixiertes Verständnis von "Denken" öffnet und dynamisiert. Der Begriff des Denkens bleibt dann
+nicht für im engeren Sinne begriffslogische oder aussagenlogische, für streng regelgebundene
+Operationen reserviert. Solche kognitiven Leistungen werden dann vielmehr als eine spezifische Form
+aus einem ganzen Spektrum von Formen des Denkens betrachtet, zu denen auch Traum und Phantasie
+gehören. Von einem konstruktivistisch und kognitionswissenschaftlich informierten Standpunkt aus, der
+Wahrnehmung, Denken und Lernen wesentlich als Hervorbringungen, als Produkte unseres Gehirns
+auffaßt, ist eine solche Betrachtungsweise geradezu selbstverständlich. Sigmund Freud hat sie schon vor
+gut hundert Jahren in der ihm eigenen trockenen Art ausgesprochen:"(Das) Träumen setzt sich über Zeit
+und Raum nicht anders hinweg als das wache Denken, und eben weil es nur eine Form des Denkens
+ist." (1900/ 1982, S.86) Für die institutionelle und professionelle Architektur der Schule, wie wir sie
+heute kennen, hätte es weitreichende Konsequenzen, wenn mit einer solchen Einsicht pädagogisch Ernst
+gemacht würde. In der Regel geben wir uns allerdings große Mühe, im Schulunterricht die Türen im
+Haus des Lernens, die vom Korridor des gut abfragbaren deklarativen Faktenwissens weg in andere
+Denkräume führen, schnell und nachhaltig zu verriegeln. Der "Träumer" ist das Gegenbild zum „guten
+Schüler“, wie die Schule ihn sich wünscht, und es kommt nicht von ungefähr, daß Methoden, die sich
+darum bemühen, das Lernen in der Schule für imaginative Formen des Denkens zu öffnen, wie das
+Tagträumen, auf Mißtrauen stoßen.
+Wichtige Impulse zu einer Korrektur des vorherrschenden Schullernens kommen heute aus
+Erkenntnissen den internationalen mathematisch-naturwissenschaftlich ausgerichteten
+Schulleistungsvergleichen (TIMSS, PISA; TIMSS= Third International Mathematics an Science Study,
+PISA= Programme for International Student Assessment; Baumert u.a. 1997, 2001). Das schlechte
+Abschneiden deutscher Schülerinnen und Schüler wird wesentlich darauf zurückgeführt, daß der
+Unterricht sich vor allem auf "Regelwissen, Routinen und auswendig gelernte und memorierte
+Verfahren" richtet (Edelstein 2001, S. 275). "Der übliche naturwissenschaftlich-mathematische
+Unterricht an deutschen Schulen", so F.-E. Weinert, "ist zu inhaltsbezogen und zu wenig
+verständnisorientiert." (1999, S.22) Horst Schecker und Eckhard Klieme bringen die wichtigste
+didaktische Folgerung aus den Ergebnissen der Vergleichsuntersuchungen für den Physikunterricht auf
+eine lapidare Formel: "Mehr Denken, weniger Rechnen" (2001, S. 113). Gefordert wird ein auf
+Verstehen konzentriertes, ein "verständnisintensives Lernen", dessen pädagogische Eigenart mit der
+Bedeutung von Vorstellungen für das Lernen, wie sie mit dem Begriff des "imaginativen Lernens"
+hervorgehoben werden soll, eng zusammenhängt.
+Für den damit angesprochenen Zusammenhang zwischen Lernen, Verstehen und Vorstellungsdenken ist
+ein zentraler Befund der PISA-Untersuchungen besonders wichtig: Für das Niveau der
+Basiskompetenzen in den Bereichen des Lesens (Reading Literacy), der mathematischen Grundbildung
+(Mathematical Literacy) und der naturwissenschaftlichen Grundbildung (Scientific Literacy) erweist sich
+durchgängig die Lesekompetenz als fundamental. Lesekompetenz bedeutet hier im Kern "Verstehen" im
+Sinne der Fähigkeit, das Gelesene in eine Vorstellung zu übersetzen. Dort wird (psychologisch) von
+"Situationsmodell" oder allgemeiner, von "mentalen Modellen" gesprochen. Damit ist gemeint, daß ein
+"internes Modell des im Text beschriebenen Sachverhalts gebildet wird, und zwar im Sinne einer
+analogen, inhaltsspezifischen, anchaulichen Repräsentation, die von sprachlichen Strukturen losgelöst ist"
+(Baumert u.a. 2001, S. 72). Als Beispiel dient ein "Radsportler, der einen technischen Text über die
+Veränderung der Haltung eines Mountainbikefahrers bei einer Bergabfahrt mit Sprüngen liest. Dieser
+Radsportler wird eine wesentlich reichhaltigere Repräsentation der beschriebenen Situation aufbauen als
+ein nichtradfahrender Leser. Hierin enthalten sind etwa auch optische und haptische Eindrücke, die sich
+durch die 'Versetzung in die Situation' ergeben. Diese Eindrücke sind zwar über Sprachsymbole
+vermittelt, stellen jedoch eine eher analoge Repräsentation der Situation dar (z.B. episodisch). Ähnliches
+stellt sich auch beim Lesen von Geschichten und Romanen ein. Da hier meist nur einzelne Elemente von
+4
+räumlich, zeitlich und sozial situierten Ereignisfolgen beschrieben werden, muss das entsprechende
+Szenario vom Leser selbst vervollständigt werden. Auf diese Weise gehen die persönlichen Erfahrungen
+des Lesers in sein Situationsmodell ein und es entsteht eine individuelle Repräsentation der
+beschriebenen Situation." (ebd.)
+Der Fähigkeit, eine Vorstellung vom sprachlich vermittelten Sachverhalt zu entwickeln, kommt nicht nur
+für das Leseverstehen eine entscheidende Rolle zu. Was hier für das Leseverstehen dargelegt wird,
+wiederholt sich entsprechend beim mathematischen und naturwissenschaftlichen Lernen: In beiden
+Bereichen zeichnet sich ein Kompetenzniveau, die über die mehr automatisierte Anwendung von
+Lösungsmustern hinaus die - mathematische, physikalische, biologische - Modellierung von Problemen,
+also den Übergang vom Sachverhalt zu dessen kognitiver Repräsentation einschließt, durch die
+Fähigkeit der Ausbildung von mentalen Modellen, von Vorstellungen aus.
+Insgesamt läßt sich die reformpädagogisch orientierte Diskussion über eine angemessene Sichtweise des
+Lernens zum Konzept des "verständnisintensiven Lernens" zusammenfassen. Der Begriff
+"verständnisintensives Lernen" hebt die Bedeutung des Verstehens für das Lernen hervor. "Verstehen"
+meint hier "intelligentes Wissen", eine vertiefte, anwendungsbereite Einsicht in Voraussetzungen und
+Zusammenhänge. Verstehen und bezeichnet so gesehen eine qualifizierte Leistung des Denkens. Gefragt
+wird damit nach der Binnenqualität des Lernens und deren verbesserte pädagogische Wahrnehmung
+und Förderung durch den Unterricht. Es ist genau diese Binnenqualität, um die es beim Thema der
+Imagination geht. Es soll gezeigt werden, welche grundlegende Rolle der Imagination für das Verstehen
+und damit für ein verständnisintensives Lernen zukommt. Lernen als "innere Wirklichkeit" zu betrachten,
+bedeutet dabei kein Plädoyer für eine Abwendung von der äußeren Realität, für eine Vergrößerung der
+Erfahrungs- und Lebensferne schulischen Lernens, sondern die Konzentration auf das, was im Kopf
+geschieht - auf das, was wir durch die pädagogisch noch wenig rezipierten Erkenntnisfortschritte der
+naturwissenschaftlichen Forschung darüber erfahren, vor allem aber auf die innere Wirklichkeit unseres
+Erlebens, die als Kernbereich geistiger Erfahrung mit unserem Denken, Wahrnehmen, Vorstellen und
+Fühlen, mit unserem Ich-Bewußtsein und damit unserem Menschsein unauflöslich verbunden ist. - Im
+folgenden werde ich zunächst aus pädagogischer Sicht erläutern, was Imagination mit Lernen zu tun hat,
+und vor diesem Hintergrund das Konzept eines "verständnisintensiven" Lernens im Aufriß darlegen.
+I. IMAGINATION UND LERNEN
+1. Es geht um Vorstellungen
+In der Sprache der philosophisch-geisteswissenschaftlichen Tradition heißt Imagination
+"Einbildungskraft". Wie das Wort selbst direkt und anschaulich zum Ausdruck bringt, geht es dabei um
+eine "Kraft", eine Fähigkeit, ein Vermögen des Geistes, in sich ein Bild hervorzubringen.
+Einbildungskraft ist, in der klassischen Formulierung Kants, das "Vermögen, einen Gegenstand auch
+ohne dessen Gegenwart in der Anschauung vorzustellen." (1974, S. 151)7 "Imaginieren" heißt sich
+etwas vorstellen.
+Vorstellungen sind etwas ganz und gar Alltägliches: Wenn ich nachts bei Stromausfall in die stockdunkle
+7 Kant hat mit seiner Transzendentalphilosophie die für das moderne Bewußtsein
+richtungsweisende „kopernikanische Wende“ des Denkens begründet und formuliert: Unser
+Erkennen oder Wahrnehmen der Welt beruht auf einer aktiv-produktiven Leistung, Wahrnehmung
+ist wesentlich ein Hervorbringen, nicht ein Abbilden der Wirklichkeit. Kant gehört insofern zu den
+Begründern des Konstruktivismus (vgl. Capurro 1996; Zahn 1996).
+5
+Wohnung komme, finde ich mich auch ohne Licht zurecht. Die Wohnung ist nämlich gleichsam doppelt
+präsent: Als äußere Realität in der Welt der physikalischen Objekte und als re-präsentierte innere
+Wirklichkeit in der Welt der geistigen Objekte - als Vorstellung eben. So selbstverständlich uns diese
+"innere Wirklichkeit" ist - sie hat erstaunliche Qualitäten. Bleiben wir bei dem Beispiel. Das Licht im
+Hausflur geht nicht an. Ich bewege mich zur Küche - vorsichtiger als sonst, aber zielstrebig -, meine
+Hand findet, gelenkt vom "inneren" Blick auf die imaginierte Türklinke, die reale Türklinke der "äußeren"
+Welt, ich öffne die Tür. Vielleicht steigt mir jetzt ein vertrautes Duftgemisch von geschmolzenem Käse,
+Salami und Zwiebel in die Nase, ich spüre, daß von links Wärme kommt und "erkenne", daß im
+Backofen ein Stück Pizza für mich liegt. Und richtig - auf dem Küchentisch finde ich einen Zettel, auf
+dem vermutlich steht, daß die Kinder im Kino sind und abgeholt werden möchten. Und ich weiß, daß
+sie eilig aufgebrochen sind, denn im Flur bin ich fast über ein weiches Etwas gestolpert, bei dem es sich
+um liegengebliebene Hausschuhe handeln muß.Es geht also um Vorstellungen.
+2. Vorstellungen sind immer da
+An einer solchen Situation, bei der mit dem Auge unser dominantes Sinnesorgan ausfällt, läßt sich
+einiges Grundlegende über Vorstellungen gut verdeutlichen. Zunächst: Vorstellungen sind nicht auf
+innere "Bilder" - auf visuelle Vorstellungen - beschränkt; vielmehr können alle Sinne mitspielen. Wir
+können uns vorstellen, wie wir etwas sehen, riechen, hören, ertasten, und wie wir uns bewegen - und
+natürlich auch, wie wir handeln. Eine Konsequenz ist, daß die Vorstellungswelt von Menschen, deren
+Sinne oder deren Gehirnfunktionen beeinträchtigt sind, anders ist als diejenige Gesunder. Aus ihrer
+bewegungstherapeutischen Arbeit mit blinden Kindern berichtet Marion Schnurnberger über das
+Erstaunen eines blinden Jungen, der entdeckt, daß man nicht alles, was man hört, auch sehen kann. Eine
+Sofortbildkamera wird für ihn ein wichtiges Hilfsmittel um zu lernen, was sichtbar und was unsichtbar,
+was durchsichtig und was undurchsichtig ist, indem er sich von anderen sagen läßt, was auf den Fotos
+zu sehen ist. "Einmal zeigt er seiner Mutter ein Bild, wieder mit der Frage: 'Was kannst du darauf
+sehen?' 'Nichts', sagt die Mutter, 'du hast nichts fotografiert, hier ist nur die dunkle Gartenmauer drauf.'
+'Wie kann das sein, hinter der Mauer ist doch der Parkplatz. Und da kam doch gerade der Papa, ich
+hab's doch gehört. Wenn ich durch das Fenster fotografiere, siehst du doch auch den Garten auf dem
+Bild.' Er fragt noch viel nach, wo man durchsehen kann und wo nicht, dann sagt er ganz nebenbei, aber
+sichtlich erleichtert: 'Dann kannst du mich also gar nicht sehen, wenn ich in meinem Zimmer bin und die
+Türe zu habe!'" (1996, S. 14f.)
+Wir können uns nicht vorstellen, was Musik für Taubgeborene oder Farbe für Blindgeborene bedeutet.
+"Blau ist glatt mit Sternchen" zitiert Schnurnberger ein blindes Kind (ebd., S 11). Der Neurologe Oliver
+Sacks hat aus dem Fundus seiner klinischen Erfahrung eindrucksvolle Berichte über Menschen
+geschrieben, die aufgrund veränderter Hirnfunktionen die Welt kognitiv anders entschlüsseln als die
+meisten von uns (Sacks 1987, 1995). Gewissermaßen komplementär dazu ist das Erleben von
+Synästhetikern, deren Gehirn synchron zum Gehörten visuelle oder zum Gesehenen akustische
+Vorstellungen produziert (vgl. Emrich 2001).
+Vorstellungen sind, außer vielleicht im traumlosen Schlaf - immer da, und wir bedienen uns ihrer ständig
+in den unterschiedlichsten Zusammenhängen: Wenn ein Architekt ein Haus plant, ein Komponist ein
+neues Stück erfindet, ein Regisseur einen Film entwirft, ein Kunstturner seine Kür mental trainiert, ein
+Bewerber sein Vorstellungsgespräch phantasiert oder wenn Lehrerinnen und Lehrer sich in die nächste
+Unterrichtsstunde hineinversetzen. Immer verhalten wir uns dabei probeweise in einer inneren
+Wirklichkeit, die wir bewußt und gezielt konstruieren, manipulieren und bedenken können. Weiter: Daß
+Vorstellungen nicht nur absichtsvoll zustande kommen und keineswegs immer unserer Kontrolle
+unterliegen, läßt sich ebenso an alltäglichen Situationen gut verdeutlichen: Wenn ein Ball vor das Auto
+rollt, sehen wir ihm in unserer Vorstellung ein Kind nachlaufen, und bremsen; wenn das Glas kippt,
+6
+sehen wir schon den Weinfleck auf dem Teppich und greifen zu, wenn wir das Wort "Zitrone" hören,
+"schmecken" wir die Säure, und das Wasser läuft uns im Mund zusammen - und dies normalerweise
+ohne bewußte Absicht. Unsere Vorstellungen funktionieren in solchen Situationen automatisch, prompt
+und unauffällig und machen anderen Platz, wenn sie nicht mehr benötigt werden: Wenn das Kind die
+Straße überquert, beschäftigen wir uns in der Vorstellung vielleicht schon mit dem Einparken, weil wir in
+einiger Entfernung einen freien Parkplatz entdeckt haben, und wenn wir einparken, sind wir in unserer
+Vorstellung schon am Fahrkartenautomaten der U-Bahn, und wenn wir die Fahrkarte lösen, schon im
+Konzert...
+3. Vorstellungen: Hilfe und Hindernis
+Arten und Funktionen der Imagination sind vielfältig. Die Imagination fungiert für uns als Erinnerungs-
+und Erfahrungsspeicher, als Planungsinstrument, als Handlungsbegleiter (Neisser 1978). Vorstellungen
+bilden gleichsam eine Rohfassung der gegenwärtigen Situation, die durch entsprechende Informationen
+aktualisiert wird - ein enorm ökonomisches Verfahren, durch das wir unsere kognitive
+Verarbeitungskapazität entlasten und die Fähigkeit zu bewußt gesteuerter Aufmerksamkeit auf die
+tatsächlich relevanten, nämlich neuen und variablen Aspekte der Gegenwart konzentrieren. Wolf Singer
+(2000, S. 200) résümiert entsprechende empirische Befunde so: "Das Gehirn bildet ständig Hypothesen
+(d.h. Vorstellungen, P.F.) darüber, wie die Welt sein sollte, und vergleicht die Signale von den
+Sinnesorganen mit diesen Hypothesen. Finden sich die Voraussagen bestätigt, erfolgt die Wahrnehmung
+nach sehr kurzen Verarbeitungszeiten." Einige Beispiele mögen dies verdeutlichen.
+Dirigent und Musiker müssen mit ihrem inneren Ohr der erklingenden Musik voraus sein; der Dirigent
+übermittelt seine Vorstellung gestisch und mimisch ans Orchester - genauer gesagt: er "erinnert" bei der
+Aufführung nur noch an die bei den Proben erarbeitete Vorstellung -, er agiert und reagiert hinweisend,
+korrigierend, dämpfend, ermunternd, lobend auf die Abweichungen zwischen Vorstellung und
+tatsächlich Gehörtem. Je mehr sich die Zuhörer auf die Dynamik zwischen Vorstellung und Ausdruck
+einlassen können - und hier spielt der Dirigent als Moderator, manchmal als Virtuose nonverbaler
+Kommunikation, eine entscheidende Rolle -, desto besser können sie die Interpretation verstehen und
+genießen. Das eigentliche musikalische "Erleben" beruht vermutlich auf diesem äußerst facettenreichen
+Spiel zwischen Vorstellung und Wahrnehmung, aus dessen Differenzen und Dynamik der bestimmte
+Ausdruck, die besondere Qualität, die Spannung einer einzelnen Interpretation entspringt.
+Die Lehrerin, die morgens in die ihr vertraute Klasse kommt, hat die Schülerinnen und Schüler schon
+vor dem inneren Auge und sieht deshalb mit einem Blick, wer fehlt, wer müde, wer unlustig, wer gut
+vorbereitet ist - diese imaginative Beschäftigung mit den Schülerinnen und Schülern ist der vielleicht
+wichtigste Teil der Vorbereitung auf den Unterricht; der Arzt nimmt bei der Untersuchung eines
+Patienten die Symptome vor dem Hintergrund einer Vielzahl von Krankheitsbildern - man könnte sagen:
+klinischen Vorstellungen - wahr. Vorstellungen greifen einerseits auf Erfahrungen zurück. Daß sie
+andererseits unserer Wahrnehmung und unserem Handeln vorgreifen, das wird schon von dem Wort
+"Vorstellung" selbst geradezu bildhaft-anschaulich zur Sprache gebracht: Was wir als Vorstellung
+bezeichnen, ist das, was wir - wortwörtlich genommen - vor unser Bewußtsein stellen und damit auch
+dasjenige, was sich zwischen der gedachten und der wahrgenommenen Welt befindet. Vorstellungen
+stehen zugleich vor dem Bewußtsein und vor der Realität. Vorstellungen haben so gesehen ein ähnliche
+Funktion wie Vorurteile: sie lenken Denken und Handeln durch selektive Wahrnehmung - in dieser
+komplexitätsreduzierenden Wirkung liegen Gewinn und Risiko zugleich. Auch das ist uns wohl vertraut:
+Die "Krankheitsbilder" - die klinischen Vorstellungen -, die den Arzt bei der Diagnose leiten, können
+auch dazu führen, daß entscheidende, vielleicht ungewöhnliche Symptome ausgeblendet und übersehen
+7
+werden; der Lehrer läßt sich - nicht nur bei der Notengebung8
+- von sozialen Stereotypen beeinflussen -
+über die vermeintlichen Leistungsunterschiede von Jungen und Mädchen, die vermeintlichen
+Gemeinsamkeiten von Angehörigen einer Ethnie, die vermeintliche Faulheit von Fritz, der ja aus der
+gleichen Familie stammt wie Franz. Aber nicht nur auf individueller Ebene, sondern auch gesellschaftlich
+sind Vorstellungen wahrnehmungs- und handlungsleitend. Weltbilder - als humane Visionen religiöser
+und säkularer Provenienz wie als rassistische oder fremdenfeindliche Ideologien - sind, wie uns das
+beginnende 21. Jahrhundert drastisch vor Augen führt - von nachhaltiger politisch-gesellschaftlicher
+Wirkung.
+Vorstellungen bestimmen auch über unser Naturbild: Wer glaubt, die Mondphasen beruhten darauf, daß
+ein Teil des Mondes vom Erdschatten verdeckt wird - eine Ansicht, die Martin Wagenschein immer
+wieder selbst bei Physikstudenten angetroffen hat9
+- folgt einer falschen Vorstellung davon, wie sich
+Sonne, Mond und Erde zueinander bewegen; wir werden auf dieses Beispiel noch zurückkommen. -
+Und wer sich die Erde als Scheibe vorstellt, kann nicht auf die Idee kommen, in westlicher Richtung von
+Europa nach Indien zu gelangen. Normalerweise unterstellen wir, daß es uns keine Schwierigkeiten
+macht, zwischen der vorgestellten und der wahrgenommenen Welt zu unterscheiden und bewußt zu
+wechseln - zwischen Wunsch und Wirklichkeit, Spiel und Ernst, Bühne und Leben, Hypothese und
+Beobachtung. Demgegenüber machen die erwähnten Beispiele darauf aufmerksam, wie leicht sich unter
+Umständen unsere Vorstellungen gegenüber der Wahrnehmung durchsetzen können, und wie schwer es
+ist, eingefleischte und kulturell geschützte Vorstellungen zu überwinden - selbst dann noch, wenn eine
+Vielzahl von beobachtbaren Tatsachen ihnen widerspricht. Bei Krankheit, etwa wenn wir hohes Fieber
+haben, bei Psychosen oder unter Drogen schließlich kann die Fähigkeit, zwischen der inneren und der
+äußeren Wirklichkeit zu trennen, ganz verloren gehen -, und auch wenn wir träumen, sind wir ohne
+bewußte Kontrolle in der Welt unserer Vorstellungen gefangen.
+Sehr eindrucksvoll ist für mich hier eine Erfahrung, die ich bei der Arbeit mit Besuchern an einem der
+Experimente der "Imaginata"10 immer wieder gemacht habe. Wir hatten zum Thema "Licht - Optik -
+Sehen" eine Reihe von Spiegelexperimenten aufgestellt, unter anderem gleich am Eingang des
+Stationenfeldes nebeneinander einen normalen, einen Meter breiten und zwei Meter hohen Spiegel und
+daneben einen Umkehrspiegel, und zwar so, daß Besucher sich beim Eintreten zweimal im Spiegel
+sahen: Im linken, "normalen" Spiegel so, wie sie ihr Spiegelbild aus dem Alltag kennen, und daneben, im
+8 Der Einfluß der Vorurteile, der jedem, der in der Schule war, aus eigener Erfahrung vertraut und
+der Gegenstand vieler literarischer, besonders auch autobiographischer Darstellungen ist - von
+Hesses "Unterm Rad" bis Frank McCourts "Ein rundherum tolles Land" -, dürfte bei der
+Zensurengebung empirisch am besten nachgewiesen sein, zuerst durch die bahnbrechenden
+Untersuchungen von Karlheinz Ingenkamp 1971.
+9 "Allein unter Studenten", so Wagenschein (1997, S.67), "hatte etwa jeder Vierte dieselbe
+rasche doch absurde Auskunft zur Hand: der Schatten unserer Erdkugel sei es, der mache den
+Mond immer wieder zur Sichel."
+10 Die Imaginata ist eine Einrichtung in Jena, die sich der Aufgabe verschrieben hat, die
+Vorstellungskraft herauszufordern und zu fördern, unter anderem durch große, teilweise begehbare
+Experimente, die zur Auseinandersetzung mit Phänomenen der Natur, der Kunst, der Wissenschaft
+und der Wahrnehmung einladen. Die Imaginata entspringt der Beschäftigung mit der Imagination und
+ist von Gundela Irmert-Müller und dem Verfasser zusammen gegründet worden. Die wichtigste
+Kooperationspartnerin ist die Stiftung für Bildung und Behindertenförderung. Mehr Informationen
+auf Anfrage bei der IMAGINATA e.V., Löbstedter Str. 67, 07749 Jena, und im Internet unter
+www.imaginata.de.
+8
+rechten Spiegel doppelt gespiegelt, sich so sahen, wie andere sie sehen. Dieses umgekehrte Spiegelbild
+winkt also, wenn der Besucher mit der rechten Hand winkt, nicht mit der aus seiner - der Sicht des
+Spiegelbilds - linken Hand, die vom Besucher aus rechts zu sehen ist, sondern mit seiner rechten, die
+vom Besucher aus links ist. Nun sind wir ohnehin gewohnt, unser eigenes Gesicht immer spiegelbildlich
+wahrzunehmen und empfinden es, wenn wir es doppelt gespiegelt, also korrekt sehen, zumeist als fremd
+und verzerrt. Man würde also erwarten, daß jemand, der unverhofft auf sein Konterfei trifft - wie auf ein
+Duplikat seiner selbst -, irritiert oder zumindest verwundert ist. Wir wollten mit diesem Arrangement
+erreichen, daß die Besucher stutzig werden, innehalten, gewahr werden, daß ihre Aufmerksamkeit
+geweckt wird. Aber in den allermeisten Fällen geschah nichts derartiges: Die Besucher kamen herein,
+schienen einen allenfalls beiläufigen Blick auf ihr doppeltes Spiegelbild zu werfen und weiterzugehen, als
+ob nichts gewesen wäre.
+Gespräche haben zu unserer Überraschung ergeben, daß die allermeisten gar nicht gemerkt hatten, daß
+sie mit zwei unterschiedlichen Spiegelbildern konfrontiert worden waren. Selbst nach ausdrücklicher
+Aufforderung, doch einmal genau hinzusehen, sich zu bewegen, zu winken und zu beschreiben, was zu
+sehen ist, stellte sich bei vielen das pädagogisch erhoffte "Aha-Erlebnis" nur mit Verzögerung, und man
+hatte den Eindruck: gegen großen inneren Widerstand ein. Aus meiner Sicht haben wir es hier mit einem
+klaren Erwartungs- oder Vorstellungseffekt zu tun: Man sieht nur, was man erwartet - beziehungsweise
+was man sich vorstellen kann, und das eigene Spiegelbild scheint in unserem Gehirn als inneres Bild so
+fest "verschaltet" und uns deshalb so vertraut zu sein, daß wir es, so wie wir es kennen und lieben
+gelernt haben, gewissermaßen gegen die Wahrnehmung verteidigen. Neurologisch gesehen, besteht
+ohnehin zwischen Vorstellungen und Wahrnehmungen kein großer Unterschied: es werden die gleichen
+Hirnareale aktiviert, wenn ich einen Apfel sehe oder ihn mir vorstelle (Damasio 1996, Roth 1994,
+Singer 2000).
+4. Zwischenüberlegungen
+Wenn wir aus pädagogischer Sicht auf die Bedeutung der Imagination für das Lernen und besonders für
+ein "verständnisintensives" Lernen aufmerksam machen, dann geht es uns darum, bisher vernachlässigte
+und unterschätzte Formen und Möglichkeiten des Denkens und Lernens neu wahrzunehmen und zu
+fördern. Dies schließt die Überzeugung ein, daß das Lernen verbessert werden kann, oder, anders
+ausgedrückt, daß die menschliche Lernfähigkeit - also der Spielraum zwischen dem, was uns die Natur
+als "feste" Ausstattung mitgegeben hat, und dem, was wir aus der Kultur und durch unsere eigene
+individuelle Entwicklung an adaptiven und produktiven Fähigkeiten auszubilden vermögen - bisher nicht
+wirklich ausgeschöpft wird. Welche Bedeutung kommt hier der Imagination zu?
+Auf der einen Seite erfüllt es mit Staunen und Bewunderung zu sehen, welche Leistungen unsere
+Imagination zustande bringt; auf der anderen Seite gilt es aber den Blick auf die Voraussetzungen für
+solche Leistungen zu lenken, die ich mit dem Begriff der "Vorstellungsarbeit" bezeichnen möchte: Die
+Schnelligkeit und Sicherheit einer ärztlichen Diagnose beispielsweise beruht auf einem äußerst intensiven
+Lernprozess, einer Vorstellungsarbeit, in deren Verlauf eine große Zahl unterschiedlicher klinischer Fälle
+wahrgenommen, diagnostisch verarbeitet und Teil des Fundus, einer Genealogie innerer Bilder
+geworden sind. Ähnlich verhält es sich vermutlich mit der Fähigkeit zum Partiturlesen: Es ist die
+Fähigkeit von Musikern, besonders von Dirigenten oder Komponisten, beim Lesen einer für sie neuen
+Partitur praktisch auf Anhieb eine zutreffende Klangvorstellung zu imaginieren. Das setzt einen
+komplizierten Lernprozess voraus: Man muß lernen, die Partitur gleichsam mit einem Blick zu erfassen -
+wie ein Schachspieler eine Stellung auf dem Brett -; man muß die Schriftzeichen in Musizieranweisungen
+übersetzen, und zwar synchron für ein ganzes Orchester; außerdem müssen die vorhandenen
+Klangvorstellungen - das Hörwissen, wenn man so will -, bildlich gesprochen: in einem kognitiven
+9
+Schmelztiegel verflüssigt und in eine neue Form gebracht werden.11
+Wenn wir über intelligente Vorstellungsroutinen verfügen, das zeigen die Beispiele nochmals
+eindrücklich, bedeuten diese eine enorme Beschleunigung und Entlastung der aktuellen
+Verarbeitungskapazität. Es gilt indessen auch die Umkehrung: Wo keine Vorstellungen, sagen wir
+allgemeiner, keine kognitiven Repräsentationssysteme, keine mentalen Modelle, kein inhaltsspezifisches
+Vorwissen vorhanden ist, brauchen wir sehr lang, um adäquat zu handeln, zu verstehen oder zu
+interpretieren. Ein schönes Beispiel dafür ist das (schon in einer früheren Publikation verwendete) Foto
+eines allgemein bekannten Objekts, das schwer zu erkennen ist, weil es auf reine schwarz-weiß
+Kontraste reduziert ist (Abb. 1)12
+.
+Abb. 1
+Unser berufliches und außerberufliches Alltagsleben ist reich an Situationen, in denen wir die eine wie
+die andere Einsicht nachhaltig bestätigt finden: Wenn ich Familienangehörige vom Zug abhole, erkenne
+ich sie auf dem Bahnsteig ohne bewußte und gezielte Anstrengung unter hundert anderen, wenn ich in
+einer fremden Stadt U-Bahn fahren und am Automaten eine Fahrkarte lösen will, wird davon meine
+gesamte kognitive Kapazität beansprucht, und ich fühle mich wie der sprichwörtliche Ochse vor der
+11 Vgl. hierzu Altenmüller 2000.
+12 Die Abbildung stammt aus Roth 1994; manche verzweifeln bei dem Versuch, das abgebildete
+Objekt zu erkennen. Damit es nicht so weit kommt, schauen Sie bitte nach bei Fauser/ Irmert-
+Müller in Fauser/ Madelung 1996. Oder bilden aus dem 8., 11. und 21. Buchstaben des deutschen
+Alphabets ein Wort (es gibt nur eins); dann wissen Sie begrifflich, was das Bild darstellt, aber es ist
+nicht sicher, ob Sie es dann tatsächlich auch sehen; dafür braucht Ihr Gehirn eine visuelle
+Vorstellung. Sie haben dann ein weiteres Beispiel für den Unterschied zwischen Begriff und
+Vorstellung.
+10
+Apotheke; wenn ich am Radio einen Sender suche und gleite dabei für einen Sekundenbruchteil durch
+eine Musikübertragung, genügt dieser Bruchteil schon, um ein Stück, das mir vertraut ist zu
+identifizieren, aber ich habe keine Chance, bei unseren Kindern mitzureden, wenn es um die
+Unterschiede zwischen Musikstilen in der aktuellen Popszene geht - manche sind für mich wie fremde
+Sprachen.
+5. Imagination interdisziplinär
+In verschiedenen Bereichen der Theorie und der Praxis gewinnt derzeit das Thema der Imagination, des
+Vorstellungsdenkens und seiner Bedeutung für das Lernen wachsendes Gewicht. Zu nennen sind neben
+den Neuro- und Kognitionswissenschaften beispielhaft die Systemische Therapie sowie verschiedene
+imaginative Verfahren im therapeutischen Bereich (Madelung 1996). Für die philosophische Tradition
+bilden Vorstellungen eine durch die "Einbildungskraft" vollzogene Synthese von Wahrnehmung und
+Denken, von "Sinnlichkeit und Verstand", wie es bei Kant heißt (Capurro 1996). Vorstellungen bilden
+gleichsam ein geistiges Mittelding zwischen dem abstrakten Begriff und der konkreten Wahrnehmung:
+Die Vorstellung von "Baum" ist deshalb einerseits näher beim Begriff als das besondere Erinnerungsbild
+eines einzelnen Baumes (z.B. des Weihnachtsbaumes des vergangenen Jahres), andererseits näher bei
+der Wahrnehmung als der (beispielsweise botanische) Begriff "Baum". Diese Mittelstellung der
+Imagination zwischen "Denken" und "Wahrnehmen" muß heute im Rahmen der Kognitionswissenschaft,
+der entsprechende Bereiche aus Informatik, Psychologie und Philosophie, Linguistik,
+Kulturanthropologie und Pädagogik zuzurechnen sind (Scheerer 1991), nicht grundsätzlich revidiert
+werden, auch wenn hier durch den Einfluß der empirischen Disziplinen, besonders der
+Neurowissenschaften, eine andere Systematik Platz greift. Vorstellungen werden hier als spezifische
+Formen mentaler Repräsentation aufgefaßt. Während "mentale Repräsentation" sich auf die Gesamtheit
+der kognitiven, d.h. gegenstandsbezogenen geistigen Zustände, Fähigkeiten, Prozesse erstreckt,
+bezeichnet der Begriff der Vorstellung in dieser Sicht einen Teilaspekt, der sich von Wahrnehmen,
+Urteilen, Darstellen abgrenzen und psychologisch am ehesten mit dem Konzept der "mentalen Modelle"
+fassen läßt. Mit diesem Konzept wird unter anderem in den psychologischen Untersuchungen zum
+Textverstehen gearbeitet (Schnotz 1994, 1999, 2001). Hier wird davon ausgegangen, dass Texte beim
+Lesen nicht als propositionales System entschlüsselt werden - also aussagenlogisch -, sondern dass
+dabei ebenso "mentale Modelle" - also durch Vorstellungen organisierte Formen kognitiver
+Repräsentation - zum Tragen kommen und in Wechselwirkung mit propositionalen Prozessen treten.13
+Es gibt, u. a. bei der Untersuchung von Problemlösestrategien besonders Begabter, Hinweise darauf,
+daß sich ein Wechselspiel zwischen imaginativen und logisch-analytischen Strategien über den
+sprachlichen Bereich hinaus auch in anderen Domänen des Denkens nachweisen läßt.14 Dabei weichen
+allmählich auch Modelle einer strikten Funktionsteilung zwischen den beiden Hirnhälften
+differenzierteren Sichtweisen, von denen allerdings die grundsätzliche Einsicht in die funktionale
+Spezialisierung bestimmter Hirnareale und auch der beiden Hemisphären nicht in Frage gestellt wird.
+Interessant hierbei ist auch der Vergleich zwischen Männern und Frauen.15
+13 "Unter einem mentalen Modell", so Schnotz, "versteht man ein internes (hypothetisches)
+Quasi-Objekt, das in einer Struktur- oder Funktionsanalogie zum jeweiligen Wissensgegenstand
+steht und den Gegenstand aufgrund dieser Analogie repräsentiert. Beispielsweise könnte die
+schematisiert-vereinfachte Vorstellung einer sich drehenden Erde als mentales Modell der Erde
+fungieren." (2001, S. 77) Aus meiner Sicht läßt sich der Sache nach zwischen dem, was hier als
+"mentales Modell" bezeichnet wird und dem, was wir "Vorstellung" nennen, kaum unterscheiden.
+14 Vgl. Krause u.a. 1995, 1997, 2000, Seidel 2001.
+15 Vgl. hierzu den Beitrag von Rubner in diesem Band. Sehr ausführlich und über weite Strecken
+11
+6. Schule und Imagination
+Begriff und Thema der Imagination findet in verschiedenen Didaktiken wachsende Aufmerksamkeit.
+Dennoch gehört "imaginatives Lernen" keineswegs zu den eingeführten Begriffen der Schulpädagogik.
+Vielmehr stehen wir erst am Beginn eines Forschungs- und Entwicklungsprozesses. Das ist insofern
+überraschend, als die Schule als Institution sich ja ganz elementar darauf verläßt, dass wir uns die Welt
+vorstellen können - daß wir unsere Wahrnehmungen und Erfahrungen speichern und sie uns geistig
+vergegenwärtigen, "kognitiv repräsentieren" können. Nicht von ungefähr gehört die Wendung "Stellt
+euch bitte vor ..." zur alltäglichen Schulsprache.
+In den Didaktiken des Literatur- und Geschichtsunterrichts wird über den Zusammenhang zwischen
+Imagination und Lernen seit längerem differenziert und mit wachsender Aufmerksamkeit diskutiert
+(Schörken 1998, Spinner 1998, v. Borries 1998).16 In diesen Fächern - wie auch im
+Religionsunterricht - spielen die Einsichten in die imaginativen Voraussetzungen des Leseverstehens und
+entsprechende Methoden eine wesentliche Rolle. Beispielsweise werden Biblische Geschichten im
+"Bibliodrama" erarbeitet und ihre Symbolgehalte vor dem Hintergrund der eigenen Lebensgeschichte
+der Teilnehmer szenisch dargestellt - Imagination als Raum des Probehandelns. Die Wahrnehmung des
+Zusammenhangs von Lernen und Imagination zeigt sich auch in der Symboldidaktik. Sie "gehört zu den
+wichtigsten und auch mit am stärksten wahrgenommenen religionspädagogischen Entwicklungen seit den
+80er Jahren." (Schweitzer 1996). Dorothee von Wulffen hat die Bedeutung der Imagination im
+Lateinunterricht untersucht. Dabei identifiziert sie "imaginative Stile", die sich durch die "besondere Art
+des Zusammenwirkens von Erfahrung, Vorstellungsbildung und begrifflichen Strukturen" unterscheiden
+lassen (1999. 155) - nicht im Sinne strukturell unvereinbarer Funktionsmodelle, sondern eben als
+Stildifferenzen, als analytisch gewonnene Spielarten einer inneren Dynamik des Lernens, die wesentlich
+durch individuelle Voraussetzungen und Bedigungen geprägt wird.
+Auch in anderen Bereichen der Schule wird mit Vorstellungen gearbeitet - mehr oder weniger bewusst
+und gekonnt. Dabei ist die Situation aber insgesamt noch immer dadurch geprägt, daß die Schule die
+Vorstellungskraft zumeist nur stillschweigend voraussetzt, nicht aber planvoll ins Lernen einbezieht. Im
+Gegenteil: Oftmals werden die mitgebrachten Vorstellungen, die das vielleicht wichtigste geistige
+Rohmaterial schulischen Lernens sind, entwertet und abgeschnitten. Man denke nur an den
+naturwissenschaftlichen Anfangsunterricht: Physikalische Fachworte wie Kraft, Masse, Energie, Strom,
+Spannung sind für Kinder mit vielen außerphysikalischen Vorstellungen verbunden und in ein
+weitverzweigtes Feld von Alltagsbedeutungen und Assoziationen eingebettet. Nun werden sie
+schlagartig auf eine engdefinierte, unanschauliche Bedeutung festgelegt - ein Begriffs- und
+Vorstellungsschock, der viele ein für allemal aus der Physik vertreibt. Hier anders zu verfahren, ist für
+das exemplarisch-genetische Lernen in der Tradition von Martin Wagenschein kennzeichnend, auch
+wenn der Begriff der "Vorstellung" von Wagenschein selbst nicht im hier gemeinten Sinne verwendet
+wird. Wagenscheins "sokratische" Methode besteht darin, im Dialog aus vorwissenschaftlichen,
+alltagsnahen, anthropomorphen Vorstellungen oder Modellen anhand sinnfälliger Experimente
+physikalisch und mathematisch angemessene Vorstellungen zu entwickeln.17 Bei dem für Wagenschein
+sehr amüsant legen A. und B. Pease, 2000, dieses Thema dar. Vgl. auch Singer 2000.
+16 Die Zeitschrift "Praxis Deutsch" widmete unlängst ein Heft dem Thema "Vorstellungsbildung"
+(März 1999), die Zeitschrift "Pädagogik" (H. 7/8 1999) dem "imaginativen Lernen" einen
+Themenschwerpunkt.
+17 Ein Beispiel: "Wie macht die Luft das so, wenn sie den Schall trägt? Hat sie ein` Rucksack oder
+12
+charakteristischen Hin- und Her zwischen Beobachtung und Beschreibung bzw. Hypothese, das
+dialogisch verfeinert wird, spielt die Frage eine große Rolle, ob die in den sprachlichen Formulierungen
+enthaltenen Vorstellungen den beobachteten Sachverhalten angemessen sind oder nicht.
+Wie bereits erwähnt, gibt es erfreuliche Anzeichen dafür, daß sich gerade auch in den
+Naturwissenschaften und in der Mathematik die Bedeutung von Vorstellungen stärker in den Blickpunkt
+gerückt wird. So hat jüngst der professionspolitisch sehr einflußreiche Verein zur Förderung des
+mathematischen und naturwissenschaftlichen Unterrichts eine Empfehlung zum Biologieunterricht
+vorgelegt. Darin gilt der systematisch grundlegende erste Abschnitt der "Arbeit mit Vorstellungen".
+"Unterricht wird oft als wenig effektiv empfunden", heißt es in dem Empfehlungstext vor dem
+Hintergrund der erwähnten TIMS-Studie, und weiter: "Ein Grund für geringe Lernzuwächse liegt in der
+Diskrepanz zwischen alltagstauglichen Vorstellungen der Lerner und fachwissenschaftlichen
+Konzepten. Dieser Widerspruch kann aber durchaus fruchtbar gemacht werden." (MNU 2001, S.IV,
+Hervorh. dort)18 Die Verfasser skizzieren dann eine idealtyptische Unterrichtssequenz mit den Stationen
+"Fragestellung - Schülervorstellungen - Strukturieren - Experimente und Beobachtungen -
+Konfliktsituation - Konstruktion neuer Vorstellungen - Anwenden auf neue Problemstellungen", womit
+die Sequenz auf neuem Niveau wieder von vorn beginnen könnte. Kern dieses didaktischen Modells ist
+die Neustrukturierung von Vorstellungen, die durch von Beobachtungen und Experimenten angeregte
+kognitive Konflikte angestoßen wird.
+Auch in der Mathematikdidaktik gibt es Bemühungen um eine stärkere Beachtung des
+Vorstellungsdenkens. Anstelle eines Berichts möchte ich hier eine von den mehreren Dutzend
+Vorstellungsübungen zitieren, die Christof Weber für den Mathematikunterricht entwickelt, erprobt und
+ausgewertet hat.19
+Die Übung heißt "ebenes Dreieck begehen" und gehört zur Geometrie des Dreiecks (2001, S. 7f.).
+"
+- Stellen Sie sich vor, barfuß auf einer Wiese zu gehen. Da sehen Sie vor sich, die Form eines großen
+Dreiecks bildend, drei Stoffstreifen liegen (zum Beispiel elastische Binden). Gehen Sie auf die Mitte
+eines Streifens zu und stellen sie sich mit Ihren Füssen so auf den Streifen, dass die Figur vor Ihnen liegt
+und strecken Sie die Arme seitwärts nach rechts und links aus: Sie liegen über einem Streifen (das heißt
+einer Kante) des Dreiecks.
+- Bewegen Sie sich nun seitwärts, Fuß neben Fuß setzend, auf einem Streifen in Richtung des rechten
+Arms, bis Sie an eine Ecke kommen, wo zwei Stoffstreifen zusammenlaufen.
+- Jetzt ragt der rechte Arm über die Figur hinaus, und der linke liegt über der eben begangenen Kante
+des Dreiecks. Drehen Sie sich mit starr ausgestreckten Armen um Ihre Längsachse so, dass der linke
+Arm in die Figur hinein ragt. Drehen Sie sich langsam weiter, bis er über der nächsten Kante zu liegen
+kommt.
+- In der Richtung des linken Arms bewegen Sie sich wieder, Fuß neben Fuß setzend, bis zur zweiten
+mit'n Händen?", Thiel in: Wagenschein 1990, Seite 104.
+18 Für den Hinweis auf diese Publikation danke ich Alexander Urban.
+19 Leider sind die Ergebnisse der Arbeit von Christof Weber noch nicht in Buchform zugänglich.
+Ich zitiere hier mit freundlicher Zustimmung des Verfassers aus dem Manuskript.
+13
+Ecke. Jetzt ragt der linke Arm über die Figur hinaus, und der rechte liegt über der eben begangenen
+Kante des Dreiecks. Drehen Sie sich wieder langsam so weit, bis er über der nächsten Kante zu liegen
+kommt.
+- Gehen Sie auf diese Art weiter, bis Sie an den Ausgangspunkt zurückkommen.
+- Wie stehen Sie jetzt?... Was ist passiert?
+Kommentar: Wir stehen zum Schluß so, dass die Figur nicht mehr vor, sondern hinter uns liegt; wir
+haben also beim Begehen insgesamt (da wir uns in jeder Ecke in dieselbe Richtung gedreht haben) eine
+halbe Umdrehung durchgeführt. Dies ist die zentrale Aussage des Lehrsatzes "die Summe der
+Innenwinkel im ebenen Dreieck beträgt 180 Grad".
+Erfahrung: Sofort verallgemeinert Otmar sein Erleben und vermutet richtig, dass die
+Innenwinkelsumme im Viereck 360 Grad beträgt, da bei jeder Ecke die Sicht (Innen- bzw. Außensicht)
+gewechselt wird.
+Hinweis: Wie subtil die Idee zu dieser Vorstellungsübung ist wird klar, wenn versucht wird, die
+Innenwinkelsumme eines sphärischen Dreiecks in derselben Weise zu messen. Dabei ergäbe sich
+wiederum total eine halbe Umdrehung, also wäre auch die Innenwinkelsumme des sphärischen Dreiecks
+gleich 180 Grad (sie ist aber echt größer und zusätzlich vom Flächeninhalt des Dreiecks abhängig). Der
+Grund liegt darin, dass die ausgebreiteten Arme in gewissem Sinne die bis dahin aufgelaufene
+Winkelsumme bilanzieren. Diese Winkelbilanz ändert sich beim Verschieben in Abhängigkeit von der
+Krümmung der Fläche, auf der sie verschoben wird. Das heißt, sie verändert sich bei einer
+Verschiebung in der Ebene nicht, auf der Kugel hingegen wohl."
+II. IMAGINATION UND VERSTÄNDNISINTENSIVES LERNEN
+Vergleicht man die verschiedenen fachdidaktischen Ansätze, die hier ja nur sehr knapp beleuchtet
+werden können, so fällt auf, daß sie im Hinblick auf neuere Einsichten und Erkenntnisse zum Lernen
+übereinstimmen: Lernen wird durchweg als produktiv-konstruktive Leistung gesehen, die vor allem
+eigene Aktivität voraussetzt; zum Lernen gehört Handeln, als Erfahrungsbasis ebenso wie als
+Anwendungsform; und zum Lernen gehören Vorstellungen.
+Die fachdidaktischen Ansätze lenken den Blick sodann auf weiterführende Fragen zum imaginativen
+Lernen, von denen ich drei besonders hervorheben möchte. Die erste Frage betrifft Bedeutung und
+Funktion von Vorstellungen im Hinblick auf Umfang und Niveau des Denkens oder Wissens. Es ist,
+nicht zuletzt angesichts entwicklungspychologischer Erkenntnisse vor allem in der Nachfolge Piagets,
+auch didaktisch unbestritten, daß abstraktes Denken auf Handeln und Erfahrung aufbaut. Die kritische
+Frage lautet: Sind Vorstellungen, Modelle, innere Bilder, lediglich eine Zwischenstufe des Denkens, die
+von der unmittelbaren Wahrnehmung der Phänomene oder von konkreten Handlungen zu abstrakten
+Operationen führt - zu mathematischen Begriffen, physikalischen Gesetzen oder moralischen Prinzipien?
+Bildet also das imaginativ abgeschrittene Dreieck auf der Wiese meiner Vorstellung, ebenso wie das
+verinnerlichte Tischmodell von Sonne, Mond und Erde, nichts weiter als eine notwendige und nützliche
+Zwischenstation oder Vorstufe des Denkens, die überflüssig wird, wenn ich die Fähigkeit zum formalen
+Denken erlangt habe? Oder ist es auch in Mathematik und Naturwissenschaften so wie beim
+Sprachverstehen oder beim historischen Denken, daß unser Denken und Lernen auf allen Niveaus des
+Verstehens nicht nur mit Begriffen oder Prinzipien orchestriert ist, sondern zugleich immer auch mit
+Vorstellungen arbeitet? Damit ist vor dem Hintergrund der Beispiele auch die Frage angeschnitten, ob
+es im Hinblick auf das Verhältnis zwischen begrifflichem und imaginativem Denken grundlegende
+14
+fachspezifische Unterschiede gibt.20
+Eine zweite Frage gilt den Unterschieden zwischen den Vorstellungen von Anfängern und von Experten:
+In welchem Verhältnis stehen diese Vorstellungen zueinander? Besteht zwischen ihnen, wie zwischen
+den kognitiven Strukturen in der Psychologie Piagets und Kohlbergs, eine Entwicklungslogik, eine
+verbindende Genealogie, und finden sich dabei überindividuelle Merkmale und Gesetzmäßigkeiten?
+Oder stehen die Vorstellungen von Kindern und Laien und die Vorstellungen von Experten einander
+unverbunden gegenüber, ähnlich wie die Paradigmen der Naturwissenschaft nach Auffassung Thomas
+Kuhns?
+Eine dritte Frage gilt dem Verhältnis von Vorstellungen und Erfahrungen als besonderen Formen des
+Wissens. Wie verhalten sich beide zueinander? Dem Bedeutungsumfang nach werden weder
+Erfahrungswissen noch Vorstellungen durch abstrakte Formen des Wissens oder durch isoliertes
+Faktenwissen ausgeschöpft; Erfahrungen und Vorstellungen umfassen mehr als Fakten und Formeln. Zu
+beiden gehören Momente des Zusammenhangs, der besonderen Verstehenstiefe, der individuellen und
+subjektiven Verankerung und der Offenheit für Veränderungen. Theoretisch gesehen, spricht einiges
+dafür, daß wir es bei derjenigen Form des Wissens, durch die Erfahrungen aufgehoben werden, mit
+Vorstellungen zu tun haben. Die Innenseite der Erfahrung sind Vorstellungen. 21
+Zwei generelle pädagogische Konsequenzen aus diesen Überlegungen möchte ich unterstreichen: Die
+Verschiebung des theoretischen Blickwinkels, der eine vermehrte Aufmerksamkeit für das
+Vorstellungsdenken mit sich bringt, bedeutet zum einen eine Verstärkung der konstruktivistisch und
+kognitiv ausgerichteten Sicht des Lernens: Durch die Unterscheidung zwischen Vorstellungsdenken und
+anderen Formen des Denkens wird eine erweiterte und differenziertere Betrachtung dessen
+vorgeschlagen, was wir unter "Wissen" oder unter "kognitiver Repräsentation" verstehen. Zum zweiten
+wird für Forschung und Praxis die Bedeutung introspektiver Verfahren erheblich verstärkt - nicht als
+Alternative zu anderen Methoden, etwa bildgebenden Verfahren oder Verhaltensbeobachtung, sondern
+als notwendige Ergänzung und Erweiterung durch den auf andere Weise nicht zugänglichen Bereich der
+Selbstwahrnehmung.
+Vor diesem Hintergrund möchte ich nun den Versuch machen, ein Stukturmodell für
+"verständnisintensives Lernen" zu entwerfen. Es geht mir dabei um ein Minimalmodell, das diejenigen
+Dimensionen oder Funktionen integriert, die notwendig zum Lernen gehören und verdeutlicht, welche
+Rolle Vorstellungen dabei spielen. Es ist vielleicht nicht überflüssig zu betonen, daß es sich auch bei
+diesem Modell um eine (theoretische) Vorstellung handelt - obwohl dieser erkenntnistheoretische
+Vorbehalt im vorliegenden Kontext eigentlich selbstverständlich sein müßte.
+Ich führe das Modell über ein kleines Experiment ein, das ich bei vielen Vorträgen immer wieder mit
+Erfolg ausprobiert habe.22
+Ausgangspunkt ist die folgende einfache Skizze (Abb.2), die ich meinen Zuhörern zeige. Sie soll den
+20 Allgemeiner kann man nach der Bereichsspezifität von Vorstellungen fragen, wobei als
+"Bereiche" beispielsweise auch die von Gardner (1991) vorgeschlagenen Domänen oder Formen
+der Intelligenz angesehen werden könnten.
+21 Vgl. dazu Hüthner 2000; ausführlicher dazu Fauser 2000.
+22 Besondere Anregungen für diesen Teil des Manuskripts verdanke ich Stephan Karmann, Jens
+Rißmann und Axel Weyrauch.
+15
+Mond über dem Horizont darstellen. Nun konfrontiere ich die Zuhörer mit folgenden Fragen:
+1. Welche Mondphase zeigt die Skizze?
+2. In welche Himmelsrichtung schauen wir, wenn wir den Mond so sehen, wie hier dargestellt?
+3. Um welche Tageszeit handelt es sich?
+Abb. 2
+Die allermeisten Zuhörer können die erste Frage sofort beantworten und scheitern an allen weiteren.
+Die Antwort auf die erste Frage lautet: "Zunehmender Mond". Auf die Nachfrage, woher sie dies
+wissen, habe ich fast immer die Auskunft erhalten, daß man die Sichel des zunehmenden Mondes zu
+einem kleinen "z" (in Sütterlin-Schrift) wie "zunehmend", die des abnehmenden zu einem "a" wie
+"abnehmend" ergänzen könne (Abb.3). Dies habe man schon in der Grundschule gelernt.
+Abb. 3
+Solche Lösungshilfen oder Gedächtnisstützen bezeichnen wir üblicherweise als "Eselsbrücken". Im
+vorliegenden Zusammenhang dient mir diese Eselsbrücke, mit der man die Mondphasen richtig
+identifizieren kann, als Beispiel für einen Algorithmus, also für ein Rechen- oder Verarbeitungsschema,
+16
+mit dessen Hilfe man aus gegebenen Fakten oder Beobachtungen ein richtiges Ergebnis ermitteln kann.
+Algorithmen oder Formeln ökonomisieren den Lösungsprozess, weil sie uns ersparen, den Lösungsweg
+immer wieder neu zu erarbeiten. Hier liegt indessen zugleich der Nachteil: Man kann Algorithmen
+anwenden und zu verläßlichen Ergebnissen kommen, ohne das Problem, um das es geht, zu verstehen
+und ohne beurteilen zu können, ob der Algorithmus stimmt. An diesem Punkt setzt nicht nur die
+Didaktik Martin Wagenscheins an, sondern auch die gegenwärtige, durch TIMSS und PISA ausgelöste
+Kritik an der Qualität des deutschen Schulunterrichts. Er legt zu viel Wert auf die Anwendung und zu
+wenig auf das Verstehen von Algorithmen.
+An dieser Stelle trete ich nun in mit meinen Zuhörerinnen und Zuhörern in einen Dialog ein und versuche,
+die Antworten auf die weiteren Fragen mit Hilfe einfacher Überlegungen zu erarbeiten, was sich zumeist
+als nicht besonders schwierig erweist.23
+Man muß sich zunächst klarmachen, daß man von der Verteilung von Licht und Schatten auf dem
+Mond auf die Stellung der Sonne im Verhältnis zum Mond schließen kann. Das wird in Abb. 4 gezeigt.
+Das Pfeilbündel soll das von der Sonne kommende Licht veranschaulichen, der dicker gezeichnete Pfeil
+in der Mitte zeigt folglich in Richtung Sonne. Daraus ergibt sich bereits eine Antwort auf die zweite und
+die dritte Frage: Vom Betrachter aus gesehen, steht die Sonne bei dieser Konstellation rechts unterhalb
+des Horizonts. Wenn die Sonne unter dem Horizont verschwunden ist, muß es Nacht sein, und sie
+bewegt sich (scheinbar, denn in Wahrheit dreht sich die Erde) nördlich von uns unsichtbar weiter, bis sie
+im Osten wieder aufgeht. Wenn dies stimmt, schauen wir bei der gezeigten Konstellation in westliche
+Richtung, denn nur dann ist rechts von uns Norden.
+23 Den astronomisch gebildeten oder den weiterdenkenden Lesern wird nicht verborgen bleiben,
+daß meine Betrachtung des Mondes eine Reihe von Vereinfachungen enthält. Beispielsweise gilt die
+hier genannte "Eselsbrücke" nur auf der nördlichen Erdhalbkugel, die zeichnerische Darstellung ist
+zweidimensional und deshalb gegenüber der dreidimensionalen Wirklichkeit vereinfacht, und die
+Frage, warum die "Eselsbrücke" stimmt, wird von den hier ausgeführten Überlegungen noch gar
+nicht wirklich berührt. Hier muß man zumindest Richtung und Geschwindigkeit der Erdrotation zu
+Richtung und Geschwindigkeit des Umlaufs des Mondes um die Erde einbeziehen.
+17
+Abb. 4
+Dieses Beispiel enthält alle Aspekte, die zum hier entwickelten Konzept des "verständnisintensiven
+Lernens" gehören: Es läßt, erstens erkennen, daß wir zum Verstehen auf Wahrnehmung, Beobachtung,
+Erfahrung, auf eigenen aktiven Umgang mit der Wirklichkeit angewiesen sind. Zweitens kann ich in
+diesem Fall das Gesehene nur dann interpretieren, wenn ich die Konstellation von Sonne, Mond und
+Erde und deren Bewegung zueinander in meinem Kopf wie in einem Modell vergegenwärtigen und
+bearbeiten kann - also mit Hilfe einer Vorstellung. Drittens muß ich beim Verstehen auf allgemeine
+Konzepte zurückgreifen - ich muß begriffen haben, was mit Raum, Bewegung, Richtung, Umlaufbahn
+usw. - gemeint ist; ich nenne diesen Aspekt Begreifen. Drittens schließlich - dies entspricht dem von
+mir zu diesem Beispiel abgegebenen erläuternden Kommentar - bedarf ein solches Verstehen einer
+(selbst)kritischen Reflexion, mit deren Hilfe wir die Folgerichtigkeit, aber auch die Reichweite und die
+Grenzen unserer Interpretation beurteilen und Korrekturen vornehmen können. Dies nennen wir
+Metakognition. Diese vier Aspekte, die zu einem verständnisintensiven Lernen gehören, sind in Abb.
+5 bildhaft zu einem Tetraeder zusammengefaßt, und ich möchte die Leserinnen und Lesern dazu
+einladen, über die Funktionalität, die Mängel und die Grenzen dieses Modells nachzusinnen.
+18
+Abb. 5
+1. Verständnisintensives Lernen
+Vor diesem Hintergrund möchte ich nun abschließend etwas mehr systematisch erläutern, was mit
+"verständnisintensivem Lernen" gemeint ist.
+Zur Orientierung
+Allgemein antwortet der Begriff "verständnisintensives Lernen" auf die Frage, was die Qualität
+erfolgreichen Lernens pädagogisch ausmacht. Der Anspruch, der sich mit dem Begriff verbindet, ist also
+einerseits sehr weitreichend - es geht um eine möglichst umfassende Sichtweise von Lernen überhaupt.
+Andererseits werden dabei jedoch ganz bewußt einzelne Aspekte hervorgehoben, die in der
+gegenwärtigen Diskussion als besonders wichtig erscheinen. Dabei steht insgesamt die Qualität des
+Lernens als Prozess im Vordergrund - die Frage, wie, nicht die Frage, was gelernt wird. Es geht also
+nicht um die zweifellos wichtige Auswahl und Begründung von Lernzielen. Damit soll nicht gesagt sein,
+die Inhalte seien für das Lernen unwichtig. Das wäre schon deshalb unsinnig, weil Lernen immer Lernen
+von etwas, also inhaltlich bestimmt ist. Tatsächlich schließt auch das Konzept des "verständnisintensiven
+Lernens" eine Vorstellung darüber ein, wohin das Lernen führen soll, also eine Bildungsvorstellung.
+Diese ist freilich recht allgemein, aber keineswegs rein formal oder beliebig: "Verständnisintensives
+Lernen" betrachten wir als ein Lernen, dessen Ziel der Aufbau von anwendungsbereitem, bewährtem
+und zugleich problemoffenem, also intelligentem und flexiblem Wissen und Können ist.24
+24 Während also der Begriff des Lernens auf den Prozessaspekt konzentriert ist, betrachten wir
+den Begriff der Bildung seit dem Neuhumanismus als einen übergreifenden Synthesebegriff, der sich,
+wie der Begriff der Erziehung, immer auf beides, auf Prozess und Ergebnis des Lernens richtet.
+Bildung ist gewissermaßen der Inbegriff gelungenen und gelingenden Lernens und bedeutet einen
+personalen, an der Vernunft orientierten Zusammenhang von Wissen, Handeln und Urteilen. Als
+gebildet gilt, wer von seinem Wissen und seinen Kompetenzen als mündiger Bürger, das heißt
+selbstständig, verantwortlich und selbstkritisch Gebrauch zu machen vermag.
+19
+2. Wo kommt "verständnisintensives Lernen" vor?
+Man kann sagen, daß ein Lernen, das zu anwendungsbereitem, bewährtem und zugleich
+problemoffenem, also flexiblem Wissen und Können führt, also erfolgreich ist, immer auf ein
+verständnisintensives Lernen zurückgeht, bei dem Erfahren, Vorstellen, Begreifen und Metakognition
+zusammenwirken. Bei diesem Zusammenwirken können die Geschwindigkeit sowie die Abfolge und
+Bewußtheit oder Akzentuierung der Teilaspekte sehr stark variieren. Im Ansatz gibt es ein solches
+Lernen in einer "natürlichen" Form bereits bei der entspannten, aktiven Konzentration, zu der Kinder
+beim Spiel und bei der explorierenden Auseinandersetzung mit der Welt fähig sind. Mit zunehmendem
+Alter und wachsender Lernerfahrung wächst auch die Fähigkeit, das eigene Lernen immer bewußter
+wahrzunehmen und zu gestalten.
+Beim Lernen von Experten, etwa bei der Bearbeitung technischer oder künstlerischer Probleme, kann
+das, was bei Kindern einer gleichsam unbewußten Tendenz zur optimierenden Selbstorganisation des
+Lernens entspringt, sehr bewußt und systematisch durchorganisiert sein. Ein Beispiel hierfür ist die
+Abfolge von Problembeschreibung, Hypothesenbildung, Experiment, Ergebnisanalyse und Bewertung.
+Die einzelnen Schritte eines solchen Zyklus lassen sich nicht eins zu eins mit den Kategorien "Erfahrung",
+"Vorstellung", "Begreifen" und "Metakognition" übersetzen, denn diese sind nicht operational, sondern
+funktional zu verstehen. Sie bilden allerdings grundlegende Qualitäten in jedem Erkenntnisprozess. Neue
+Erkenntnisse, Produkte oder Technologien sind ohne Erfahrung, d.h. solide Vorkenntnisse und
+Realitätsbezug, ohne Vorstellungen, d.h. Entwürfe, Pläne, Modelle, Hypothesen und ohne nachprüfbare
+Ergebnissicherung und Kritik (Begreifen und Metakognition) nicht denkbar.
+3. Was ist neu an diesem Konzept?
+Einerseits schließt das Konzept an Erkenntnisse und Erfahrungen in der pädagogischen Theorie und
+Praxis an. Sein Anspruch kann deshalb nicht sein, etwas ganz Neues zu bieten. Andererseits soll mit ihm
+pädagogisch genauer und wissenschaftlich umfassender als bisher beschrieben werden, was Lernen
+eigentlich bedeutet. Das schließt ein kritisch-konstruktives Verhältnis auch gegenüber der Schule und
+den Einseitigkeiten beim Verständnis des Lernens ein, die immer wieder entstehen, auch und gerade in
+der Schule. Der Begriff "verständnisintensives Lernen" betont unter anderem
+- die Erfahrung eigenen Tätigseins im Verhältnis zu Erfahrungen aus zweiter und dritter
+Hand,
+- die Bedeutung des Denkens in und mit Vorstellungen im Verhältnis zu anderen Formen
+des Denkens,
+- Entwicklung und Begründung von Regeln und Gesetzen gegenüber deren bloßer
+Anwendung,
+- die Aufmerksamkeit für Lernen als Prozeß im Verhältnis zu dessen Zielen,
+- die aktiv-konstruktive gegenüber der reproduktiven Qualität des Lernens.
+4. Begriffliche Einordnung und Abgrenzung
+20
+"Verständnisintensives Lernen" - eine griffige Formel
+Der Begriff "verständnisintensives Lernen" bestimmt Lernen durch Verstehen. Schon rein sprachlich
+bringt damit der Begriff zum Ausdruck, daß erfolgreiches Lernen von einem intensiven, also gründlichen,
+vertiefenden Verstehen abhängt. "Verstehen" soll dabei nicht im Gegensatz zu "Begreifen" aufgefaßt
+werden. Verstehen hat in dieser Sichtweise vielmehr einen gößeren Bedeutungsumfang als Begreifen,
+geht also über logische Operationen oder Unterscheidungen hinaus. Während wir "Begreifen" dem
+"Verstand" zuordnen, schließt "Verstehen" die Beziehung auf einen übergreifenden Zusammenhang von
+Einsicht und Erfahrung ein, den wir der "Vernunft" zuordnen.
+Der Begriff "verständnisintensives Lernen" soll ausdrücklich herausstellen und beschreiben, was zur
+Qualität erfolgreichen Lernens wesentlich gehört und wie ein solches Lernen gefördert werden kann.
+Dabei unterscheiden wir vier Aspekte und deren Verhältnis zueinander. Wir nennen diese Aspekte
+Erfahrung, Begreifen, Vorstellung (Imagination), und Metakognition.
+Auf eine Formel gebracht, beruht "verständnisintensives Lernen" auf einem nachhaltigen, produktiven
+Zusammenspiel von Erfahrung, Vorstellung und Begreifen und dessen Verbesserung und Unterstützung
+durch eine begleitende Aufmerksamkeit (Metakognition). "Verständnisintensives Lernen" ist also
+mehrdimensional und selbstbezüglich (reflexiv); durch den Aspekt der Metakognition schließt es das
+ein, was gemeinhin als "Lernen des Lernens" bezeichnet wird. Im folgenden sollen diese vier Aspekte
+nun etwas genauer betrachtet werden.
+4.1. Aspekt 1: Lernen und Erfahrung ("praktisches Lernen"25)
+Ursprüngliches, "natürliches" Lernen ist Lernen durch Erfahrung. Diese Aussage hebt hervor, daß
+Lernen als eine menschliche Praxis auf Erfahrung angewiesen und angelegt ist: auf Handeln und
+Wahrnehmen in tätiger Auseinandersetzung mit anderen, mit der Welt und mit sich selbst. Wir lernen
+dabei durch unser Tun - das ist das aktive Moment von "Erfahrung" - und durch das, was uns
+widerfährt - das ist ihr passives Moment. Zentral ist dabei der Bezug des Lernens auf einen praktischen
+Kontext, eine praktische Situation, man kann deshalb auch von einem "situierten Lernen" oder von
+"praktischem Lernen" sprechen. Lernen verbindet sich hier mit Arbeiten und Helfen, Herstellen,
+Handeln, mit Erforschen, Erkunden, Experimentieren, Darstellen, Gestalten. Der Begriff "praktisches
+Lernen" faßt Lernen wie eine Ellipse mit ihren zwei Brennpunkten auf; der eine Brennpunkt
+versinnbildlicht das Tätigsein des Einzelnen, der andere die bedeutsamen Tätigkeitsfelder der
+Gesellschaft. Im Zusammenhang mit dem verständnisintensiven Lernen ist die Frage wichtig, inwiefern
+die buchstäbliche und oft beklagte Erfahrungsferne der Schule zweckmäßig ist, und umgekehrt, welche
+Erfahrungen für das Lernen förderlich oder unerläßlich sind.
+4.2. Aspekt 2: Lernen und Begreifen
+Mit "Begreifen" bezeichnet man im allgemeinen eine geistige Tätigkeit, durch die wir logische
+Unterscheidungen und Zuordnungen treffen, Regeln und Prinzipien erfassen und anwenden, Folgerungen
+ziehen, Argumente formulieren, Beweise führen, Widersprüche aufdecken oder Wahrgenommenes oder
+Erfahrenes in einen systematischen allgemeinen Zusammenhang stellen. Die sprachliche Verbindung von
+"Greifen" und "Begreifen" erinnert daran, daß Begreifen als geistige Aktivität auf sinnliche Wahrnehmung
+und Erfahrung aufbaut und daß Begreifen in der menschlichen Entwicklung auch zeitlich auf das
+25 Vgl. Projektgruppe Praktisches Lernen 1998, Fauser 2000.
+21
+"Greifen" folgt. Begreifen erscheint in dieser Betrachtung wie eine verinnerlichte Greifhandlung, durch
+die wir etwas kognitiv gewissermaßen in den Griff bekommen. Konventionell wird "Begreifen" mit
+"Denken" fast gleichgesetzt. Für den vorliegenden Zusammenhang ist es demgegenüber wichtig, den
+Bedeutungsumfang von "Denken" nicht auf "Begreifen" einzuschränken. "Begreifen" bezeichnet hier eine
+besondere Art des Denkens, von der sich andere unterscheiden lassen. Neben der Unterscheidung des
+Begreifens von anderen Formen des Denkens wollen wir noch einen anderen Akzent setzen: für
+verständnisintensives Lernen kommt es darauf an, daß im Bereich des logisch-begrifflichen Denkens
+neben einer guten Anwendungsroutine auch der Aufbau, die Konstruktion, also die Herleitung und
+Begründung der entsprechenden Strukturen (Formeln, Algorithmen, Prinzipien) verstanden wird.
+4.3. Aspekt 3: Lernen und Vorstellen ("imaginatives Lernen")
+Wir betrachten Vorstellungen als eine vom Begreifen unterscheidbare eigene Form des Denkens.
+Vorstellungen lassen sich als Synthese verstehen, in der Wahrnehmung und Erfahrung mit begrifflichem
+Denken vermittelt werden. Damit ist zunächst gesagt, daß Vorstellungsdenken (bedeutungsgleich:
+Imagination) und Erfahrung eng zusammenhängen: Wenn wir uns etwas vorstellen, zum Beispiel ein
+gleichseitiges Dreieck, einen 150 Meter langen Zaun, eine Begegnung mit Freunden, einen Kopfstand
+oder einen Blumenstrauß, greifen wir auf Erfahrungen zurück. Dabei können wir uns tatsächlich alle
+Sinnesqualitäten als Vorstellungen vergegenwärtigen - wie etwas riecht, aussieht, schmeckt, sich anfühlt,
+anhört oder wie wir uns bewegen. Unsere Imagination erschöpft sich aber nicht in der Reproduktion
+von Erfahrenem. Wir können mit unseren Vorstellungen nämlich auch über die Erfahrung hinausgehen
+und uns etwas Neues denken. Sich etwas vorstellen ist also eine Form des Denkens, eine Form
+allerdings, die eine andere Qualität hat als das begriffliche, formale, logische Denken. Vorstellungen sind
+näher bei den Sinnen und bei der Wahrnehmung als Begriffe, sie müssen nicht logisch aufgebaut sein,
+sondern können ganz anderen, analogen, assoziativen, widersinnigen und chaotischen
+Konstruktionsregeln folgen, und sie sind, wie die Erfahrung, auf ganz entscheidende Weise subjektiv
+und individuell. Bemerkenswert ist, daß die Schule Vorstellungen immer (zumeist stillschweigend)
+voraussetzt ("Stellt euch einmal vor..."), aber kaum gezielt mit und an Vorstellungen arbeitet. Bei der
+Förderung eines verständnisintensiven Lernens besteht ein wichtiges Ziel gerade darin, die bewußte
+Arbeit mit und an Vorstellungen zu verbessern.
+4.4. Aspekt 4: Metakognition26
+"Metakognition" ist ein Begriff, der erst in jüngerer Zeit an Bedeutung gewinnt und keineswegs
+einheitlich verwendet wird. Wörtlich bedeutet "Metakognition" ein Erkennen oder Denken (Kognition),
+das "hinter" oder "über" (meta) dem gegenstandsbezogenen Erkennen oder Denken liegt, eine auf
+Kognitionen bezogene Kognition oder ein Erkennen des Erkennens. Auf die Zweistufigkeit oder
+Rückbezüglichkeit, die der Begriff unserer geistigen Tätigkeit zuschreibt, weist durch die Unterscheidung
+zwischen "Denken" und "Nachdenken" auch die Alltagssprache bereits hin. Genau genommen, geht es
+dabei um eine ebenso fundamentale wie selbstverständliche Erfahrung: Wir nehmen uns selbst als "Ich"
+wahr, wenn wir denken oder handeln, wir können uns gleichsam dabei zuschauen.27 Ein älterer Begriff
+dafür ist der der "Introspektion". Die gemeinte Grunderfahrung wird mit dem Begriff "Metakognition"
+spezieller akzentuiert. Im engeren Sinne ist dabei zunächst gemeint, das eigene Denken und Lernen
+begleitend zu erfassen, fehlerkritisch zu analysieren und zu verbessern (bspw.: "... das war ein reiner
+Rechenfehler...", "... das war ein inhaltliches Mißverständnis...", "... das war eine falsche
+Modellvorstellung..." o.ä.).
+26 Vgl. Guldimann 1996, Rißmann 1997/98, Weinert 1999.
+27 Sehr instruktiv in dieser Hinsicht: Dörner 2000.
+22
+In einem erweiterten Verständnis, wie es für den vorliegenden Zusammenhang angemessen ist, geht es
+bei der Metakognition um die Erfahrung einer begleitenden Aufmerksamkeit für das Lernen. So sind
+beispielsweise Gefühle (Angst, Spannung, Stress, Irritation, Vergnügen, Lockerheit...) wichtige
+Indikatoren und Hilfsmittel im Hinblick auf die Wahrnehmung und Verbesserung der Konzentration und
+des Lernens. Weitet man den Begriff noch etwas mehr aus, so läßt sich auch die Wahrnehmung des
+Lernens durch Dritte als eine "metakognitive" Leistung auffassen, soweit sie zur Optimierung des
+Lernens beiträgt und die Selbstreflexion des Lernenden stärkt. Gerade für das Lehrerhandeln ist
+deshalb die Ausbildung von metakognitiven Fähigkeiten besonders wichtig, einerseits, um erkennen zu
+können, ob eigene Vorstellungen (Vorurteile, Erwartungen, Denkfehler, Gefühle) das pädagogische
+Denken und Handeln ungünstig beeinflussen, andererseits, um das Lernen der Schülerinnen und Schüler
+möglichst genau verstehen zu können. Für die Förderung verständnisintensiven Lernens ist daher ein
+verständigungsintensiver Unterricht die vielleicht wichtigste Voraussetzung.28
+Wie man sieht, besteht zwischen Vorstellungsdenken und Metakognition ein direkter Zusammenhang.
+Die metakognitiven Fähigkeiten werden sich in dem Maß steigern lassen, in dem es gelingt, die Arbeit
+an und mit Vorstellungen zu einem Feld bewußter und gezielter Aufmerksamkeit zu machen, die sich
+methodisch verbessern und trainieren läßt.29
+III. Ausblick
+Was ergibt sich nun abschließend vor dem Hintergrund der Überlegungen und Analysen zur Bedeutung
+der Imagination für das Lernen und besonders für das Konzept eines "verständnisintensiven Lernens"?
+Nimmt man die fachbezogenen und fächerübergreifenden Ideen, Konzepte, Methoden und Erfahrungen
+zur Imagination in der Schule insgesamt in den Blick, dann ist deutlich zu erkennen, dass es sich hierbei
+um einen eigenständig profilierten und bereits solide ausgebauten und empirisch abgesicherten Ansatz
+handelt, der dem Lernen nicht nur in der Schule eine Fülle von Anregungen und
+Erneuerungsmöglichkeiten bietet. Zugleich muß man aber betonen, daß bei allen Unterschieden
+zwischen Schulen, Fächern und didaktischen Routinen einzelner Lehrerinnen und Lehrer im Bereich des
+Vorstellungsdenkens/ der Imagination und der Metakognition ein großer Entwicklungs- und
+Qualifizierungsbedarf besteht. Während praktisches Lernen zum selbstverständlichen Repertoire guter
+Schulen gehört und einen festen Platz in der Lehreraus- und -fortbildung ebenso wie in der didaktischen
+Literatur hat, gilt dies für das "imaginative Lernen" nicht in gleicher Weise.
+Anders als das praktische Lernen, das auf eine lange ideen- und konzeptgeschichtliche Genealogie
+aufbauen kann und für das besonders am Anfang des zwanzigsten Jahrhunderts durch eine Fülle von
+pädagogischen Erfahrungen und Erfindungen schon pädagogisch fester Boden entstanden ist, kann das
+"imaginative Lernen" auf eine solche Entwicklung nicht aufbauen. Es ist eine Frucht des späten
+28 Für diese erhellende Formulierung danke ich Renate Walthes.
+29 Vgl. hierzu besonders Madelung 1996 u. 2001. Imaginative Verfahren, wie dort beispielhaft
+mit dem "Neuro-imaginativen Gestalten" dargestellt, beruhen immer darauf, daß die bewußte
+Aufmerksamkeit für Vorstellungen und Befinden und für deren Wechselwirkung gesteigert wird.
+Dabei geht es nicht nur um eng sprachlich gebundene Formen der Introspektion, sondern um ein
+Gewahrwerden mit unterschiedlichen Mitteln und Formen des Ausdrucks und der Empfindung.-
+Diese Überlegungen führen auch zu der Frage, was die Unterscheidung zwischen bewußt und
+unbewußt im Blick auf Vorstellungen bedeutet; sie muß hier offen bleiben. Vgl. dazu unter
+psychoanalytischer Perspektive Bittner 1996, unter neurowissenschaftlicher Dörner 2000.
+23
+zwanzigsten Jahrhunderts.
+Für die Lehrerinnen und Lehrer ist die Arbeit mit "imaginativem" Lernen nicht leicht. Tatsächlich stößt
+die Schule hier auf ähnliche Grundprobleme wie die Forschung: Vorstellungen sind subjektiv, sie sind
+individuell, veränderlich, oftmals wenig bewusst, teils diffus und zumeist flüchtig. Anders als das
+praktische Lernen materialisiert sich das imaginative Lernen nicht in von außen beobachtbaren
+Tätigkeitsformen oder Produkten. Wenn man Vorstellungen erforschen und mit ihnen arbeiten will, geht
+dies nur über introspektive Verfahren. Diese waren wegen ihres Mangels an Objektivität psychologisch
+lange geradezu verpönt (vgl. den Beitrag von Jüttner in Rentschler/ Madelung/ Fauser) und sind es teils
+immer noch, ebenso wie die psychotherapeutischen Verfahren, die auf der Introspektion beruhen, wie
+beispielsweise die Psychoanalyse. Die Fähigkeit, bewusst und gezielt mit Vorstellungen zu arbeiten, sie
+also zu erfassen, im Bewusstsein zu halten und absichtsvoll zu ändern, gehört daher zwar in der
+Psychotherapie zum methodischen Rüstzeug, ist im pädagogischen Bereich aber nicht wirklich
+entwickelt, selbst wenn imaginative Verfahren wie Suggestopädie, Neurolinguistisches Programmieren
+(Weerth 1992) oder Tagträumen (Thierer 1995, 1996) immer mehr in die Fachliteratur und auch in die
+Schule Eingang finden. Ähnliches gilt für die Standbild-Methode von Ingo Scheller, ein Verfahren, das
+die Flüchtigkeit von Vorstellungen gleichsam überlistet und sie damit einer systematischen Beobachtung
+und Bearbeitung zugänglich macht. Sie ist in dieser Hinsicht mit neueren Verfahren der
+Selbstbeobachtung beim Lernen vergleichbar, die mit dem Begriff der "Metakognition" verbunden
+werden (Guldimann 1996). Man kann dabei nicht nachhaltig genug deutlich machen, daß die
+Anwendung solcher Verfahren professionell erlernt werden muß.
+Bei der gezielten Arbeit mit Vorstellungen müssen individuelle und subjektive Faktoren stärker in den
+Blick geraten und wichtiger genommen werden - bei Schülern wie bei Lehrern. Bei Schülern ergibt sich
+diese Forderung eigentlich als notwendige Folgerung aus der Tatsache, daß Erfahrungen und
+Vorstellungen, Wege und Umwege, Stärken und Schwächen, die das Lernen beeinflussen, etwas ganz
+Persönliches sind und und unter anderem von dem abhängen, was bisher gelernt worden ist. Das ist
+pädagogisch nicht neu - aber wie wichtig es ist und was getan werden kann, um diesem Umstand
+wirklich Rechnung zu tragen, soll im vorliegenden Zusammenhang schärfer gesehen und mit größerer
+Nachhaltigkeit bedacht werden. Bei Lehrern werden individuelle und subjektive Faktoren auf etwas
+andere Weise zum Thema als bei den Schülern. Lehrerinnen und Lehrer setzen "subjektive Theorien"
+ein, um Lernen zu fördern. Damit ist gemeint, daß ihr pädagogisches Handeln gegenüber Schülern mehr
+oder weniger bewußt von Strategien, Routinen, Überzeugungen gesteuert wird, die von dem abhängig
+sind, was "Lernen" insgesamt für sie bedeutet. Solche "Theorien" bestehen aus teils explizitem, teils
+implizitem Wissen, mehr aus Handlungswissen als aus theoretischem Wissen, vergleichbar
+beispielsweise dem grammatikalischen Wissen, dem wir beim Sprechen folgen. Sie sind bei Lehrern
+selbst Ergebnis und Instrument ihrer gesamten eigenen Schul- und Lernbiographie, einschließlich eines
+speziellen Teils dieser Biographie, nämlich ihrer Berufserfahrung, ihres professionellen Lernens.
+Bei der Aufgabe, ein "verständnisintensives Lernen" zu fördern, können und müssen sie allererst diesen
+persönlichen Fundus beruflichen Könnens, ihr Handlungsrepertoire sichten und nutzen.
+Wissenschaftliche Theorien und neue Erkenntnisse über das Lernen treffen auf diesen Fundus und
+werden nur in dem Maß tatsächlich wirksam, in dem sie in das Handlungsrepertoire integriert werden
+und dieses verändern. Soll das Handlungsrepertoire von Lehrerinnen und Lehrern verbessert werden,
+muß daher dieses selbst als wichtigste Grundlage ernst genommen werden. Es geht dabei nicht zuletzt
+darum, aus einer bewährten Praxis eine mehr bewußte Praxis zu entwickeln, eigene Stärken und
+Schwächen besser zu erkennen und das Zusammenspiel der beim Lernen beteiligten Teilaspekte immer
+genauer zu verstehen. Auch dieser Lernprozess, also das berufliche Lernen der Lehrer, läßt sich als ein
+"verständnisintensives Lernen" auffassen, denn er umfaßt die gleichen Elemente - Erfahrung, Vorstellung,
+Begreifen und Metakognition -, wie das Lernen der Schüler. Das Verhältnis zwischen beiden läßt sich
+24
+im Sinne einer Komplementarität oder Zweistufigkeit auffassen: Das (verständnisintensive) Lernen der
+Schüler ist der wichtigste Gegenstand für das (verständnisintensive) berufliche Lernen der Lehrer.
+
+1. Zentrales Ziel 
+Goschke macht im Kern drei Dinge:
+Überblick über Gehirnsysteme, die
+Motivation und Belohnungsverarbeitung
+und Selbstkontrolle / Selbstregulation
+tragen. 
+SpringerLink
+Verknüpfung von:
+klassischen Motivationsmodellen (Erwartungs-Wert, Ziele, Volition)
+mit kognitiver Neurowissenschaft (fMRT, Läsionsstudien, Tierexperimente)
+Brücke zur Praxis:
+Was bedeutet das für Alltagsentscheidungen, Selbstkontrollversagen, Sucht, Überessen, Prokrastination etc.?
+Welche Hebel für Interventionen ergeben sich?
+2. Neurobiologische Basis von Motivation & Belohnung
+2.1 Zentrale Belohnungssysteme
+Im Fokus stehen die mesolimbischen und mesokortikalen Dopaminsysteme: 
+PubMed
++1
+VTA (ventrales Tegmentum) → projiziert u. a. in:
+Nucleus accumbens (Belohnung, „Wollen“)
+ventromedialer präfrontaler Kortex (vmPFC) / orbitofrontaler Kortex (OFC) – Wertrepräsentation
+Diese Systeme kodieren keine „einfache Freude“, sondern:
+Anreiz-Salienz („wanting“)
+Reward Prediction Error: Differenz zwischen erwarteter und tatsächlicher Belohnung
+– klassische Arbeiten von Schultz und Kollegen. 
+PubMed
++1
+Wichtige Punkte:
+Positive RPE (mehr Belohnung als erwartet) → phasischer Dopamin-Burst
+Negative RPE (weniger Belohnung) → Dopamin-Pause
+Vollständig erwartete Belohnung → kaum Änderung
+Das ermöglicht Lernen, welche Reize und Handlungen sich lohnen (Reinforcement Learning-Perspektive).
+2.2 „Liking“ vs. „Wanting“
+Goschke wird typischerweise die Unterscheidung nach Berridge & Robinson thematisieren: 
+Wikipedia
+„Liking“ = subjektiver Genuss („es schmeckt gut“)
+„Wanting“ = Anreiz-Salienz, das „Ziehen“ eines Reizes oder Ziels
+Dopamin kodiert eher „Wanting“ als reinen Genuss
+Relevanz für:
+Sucht: „Wanting“ kann pathologisch hoch sein, obwohl „Liking“ abnimmt
+Essverhalten, Shopping, Social Media etc.
+3. Kognitive Kontrolle & Selbstkontrolle im Gehirn
+Hier kommen präfrontale und cinguläre Areale ins Spiel:
+Dorsolateraler Präfrontaler Kortex (dlPFC):
+Arbeitsgedächtnis, Zielrepräsentation, Regelanwendung
+moduliert Wertsignale in vmPFC: bei Selbstkontrolle wird das Gesamtwertsignal zugunsten langfristiger Ziele umgewichtet. 
+PubMed
++1
+Ventromedialer Präfrontaler / Orbitofrontaler Kortex (vmPFC/OFC):
+berechnet einen integrierten Wert (Geschmack, Gesundheit, soziale Folgen etc.)
+Anteriorer cingulärer Kortex (ACC):
+Konfliktmonitoring (z. B. „Schoko vs. Diät“)
+signalisiert Bedarf an mehr kognitiver Kontrolle
+Lateraler PFC (inkl. Inferior Frontal Gyrus):
+Inhibition impulsiver Reaktionen (z. B. Go/No-Go-Aufgaben)
+Wichtige Aussage:
+Selbstkontrolle = Top-down Modulation motivationaler und emotionaler Impulse durch präfrontale Kontrollsysteme, nicht deren vollständige Abschaltung.
+Empirisch: fMRT-Studien zu Essensentscheidungen zeigen, dass stärkere dlPFC-Aktivierung und stärkere funktionelle Kopplung dlPFC → vmPFC mit besserer Selbstkontrolle & geringerem Delay-Discounting zusammenhängen. 
+PubMed
++1
+4. Intertemporale Entscheidungen & Delay Discounting
+Ein Kernabschnitt dürfte sich mit Entscheidungen zwischen sofortigen vs. späteren Belohnungen befassen (z. B. Geld, Essen, Drogen, Social Media):
+Menschen zeigen hyperbolische Diskontierung:
+sofortige Belohnungen werden überproportional aufgewertet
+zukünftige Nutzen werden unterschätzt
+Neurobiologisch:
+vmPFC/Striatum → kodiert unmittelbar verfügbare Belohnungen sehr stark
+dlPFC → unterstützt, zukünftige Konsequenzen einzubeziehen und kurzfristige Versuchungen zu „überschreiben“ 
+PubMed
++1
+Typische Befunde:
+Personen mit starker Impulsivität / steilem Delay-Discounting:
+stärkerer Fokus auf sofortige Rewardsignale
+schwächerer präfrontaler Kontrollbeitrag
+Zusammenhang mit:
+Sucht, Adipositas, problematischem Konsum
+aber auch Stresshormonen und kognitiven Ressourcen (Working Memory). 
+ResearchGate
++1
+5. Computationale Modelle der Motivation & Selbstkontrolle
+Goschke dürfte zwei Ebenen verbinden:
+5.1 Reinforcement Learning & Reward-Prediction-Error
+Dopamin-Feuersignale sind gut beschrieben durch Temporal Difference (TD) Learning-Modelle:
+Wert wird schrittweise angepasst anhand von RPEs („erhalten – erwartet“) 
+PubMed
++2
+Gatsby
++2
+Diese Modelle erklären:
+wie neutrale Reize zu Belohnungshinweisen werden
+warum plötzlich ausbleibende Belohnung Frustration/Fehler signaliert
+5.2 Dual- oder Multi-System-Modelle
+Gewohnheits-/model-frei vs. zielgerichtet/model-basiert:
+Basalganglien & dorsolaterales Striatum → Gewohnheiten
+präfrontale Netzwerke & hippocampale Systeme → zielgerichtete, flexible Kontrolle
+Selbstkontrolle-Probleme können verstanden werden als:
+Übergewichtung reaktiver, model-freier Systeme
+Untergewichtung präfrontaler, zielgerichteter Systeme
+6. Individuelle Unterschiede & Psychopathologie
+Typischerweise wird Goschke systematisch zeigen, wie Störungen der beteiligten Netzwerke zu klinischen Phänomenen beitragen:
+Sucht:
+hypersensitives Dopaminsystem → überstarkes „Wanting“ drogenassoziierter Reize
+geschwächte präfrontale Kontrolle → Schwierigkeit, die langfristigen Kosten zu berücksichtigen
+ADHS:
+veränderte dopaminerge Signale → stärkere Orientierung an unmittelbaren Reizen
+Defizite in Sustained Attention und Arbeitsgedächtnis (PFC)
+Depression:
+verminderte Belohnungssensitivität (Anhedonie, reduzierte Aktivität in Striatum/vmPFC)
+Zwangsstörungen & Impulskontrollstörungen:
+Dysbalance zwischen kortikalen Kontrollarealen und habitbasierten Basalganglien-Schleifen
+Kerngedanke:
+Viele psychische Störungen lassen sich als spezifische Muster von Dysfunktionen in den motivationalen und kontrollbezogenen Netzwerken verstehen, nicht nur als „Willensschwäche“.
+7. Selbstkontrolle im Alltag: Mechanismen & Hebel
+Goschke verknüpft typischerweise die Neurodaten mit psychologischen Konzepten der Selbstregulation:
+Implementierungsintentionen („Wenn Situation X, dann mache ich Y“)
+entlasten den präfrontalen Kortex, indem sie Kontrolle automatisieren
+Aufmerksamkeitslenkung:
+Reize, die starke Belohnungssignale triggern, werden aktiv gemieden oder umgedeutet
+Kognitive Umstrukturierung:
+Reappraisal: kurzfristige Versuchung in einen Kontext der langfristigen Ziele setzen
+Episodic Future Thinking:
+mentale Simulation zukünftiger Konsequenzen kann Delay-Discounting verringern und vmPFC-Signale verändern. 
+Cell
++1
+Zentrale Aussage:
+Selbstkontrolle ist trainierbar – aber innerhalb biologischer Grenzen, die von der Architektur und Plastizität der zugrunde liegenden Netzwerke gesetzt sind.
+8. Fazit – Was du dir merken kannst 🧠
+Kurzfassung der „langen“ Geschichte:
+Motivation & Belohnung
+werden maßgeblich von mesolimbischer Dopamin-Transmission getragen (VTA → Nucleus accumbens & vmPFC).
+Dopamin kodiert Fehler in der Belohnungsvorhersage, was Lernen ermöglicht.
+Selbstkontrolle
+ist im Kern Top-down-Modulation dieser Belohnungs- und Anreizsignale durch präfrontale Kontrollnetzwerke (dlPFC, ACC, OFC/vmPFC).
+Intertemporale Wahl
+Konflikt: „sofort klein“ vs. „später groß“
+Gute Selbstkontrolle = stärkerer Beitrag präfrontaler Regionen, die langfristige Werte in die vmPFC-Bewertung hineinrechnen.
+Computationale Modelle
+RL-Modelle (TD-Learning, RPE) + Dual-System-Ansätze liefern eine präzise Sprache, um Motivations- und Kontrollprozesse formal zu beschreiben.
+Klinische Relevanz
+Viele Störungen (Sucht, ADHS, Depression etc.) sind keine bloße Charakterfrage, sondern Folge einer systematischen Dysregulation dieser Netzwerke.
+Praktische Hebel
+Implementierungsintentionen, Episodic Future Thinking, Reappraisal, Umgebungsdesign und Habit-Building nutzen genau diese Mechanismen.
+

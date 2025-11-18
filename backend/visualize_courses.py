@@ -33,6 +33,105 @@ def show_visualize_courses():
         st.stop()
 
     # -------------------------------------------------
+    # 1️⃣1️⃣1️⃣ Load data from MySQL # VISUALIZE FOR COURSE ACTIVITY OVER TIME
+    # -------------------------------------------------
+    
+    try:
+        with engine.connect() as connect:
+            query_course = text("select * from view_courses_activity_by_branch_over_time")
+            df_course_overtime = pd.read_sql(query_course, connect)
+    except Exception as e:
+        st.error(f"Database connection error: {e}")
+        st.stop()
+
+    if df_course_overtime.empty:
+        st.warning("No data found in view_courses_activity_by_branch_over_time. Please insert courses first.")
+        st.stop()
+
+    # --------------------------------------------------
+    # PREPROCESS
+    # --------------------------------------------------
+    df_course_overtime['month'] = pd.to_datetime(df_course_overtime['month'], format='%Y-%m')
+    df_course_overtime_sort = df_course_overtime.sort_values(by=['month', 'branch'])
+
+    branches = df_course_overtime_sort['branch'].unique().tolist()
+    
+    # --------------------------------------------------
+    # SELECTION LOGIC — Remember last selection
+    # --------------------------------------------------
+    if "last_selected_branches" not in st.session_state:
+        st.session_state.last_selected_branches = branches
+
+    selected_branches = st.multiselect(
+        "Select branches to display:",
+        options=branches,
+        default=st.session_state.last_selected_branches,
+        key="branch_selector"
+    )
+
+
+    # Fallback: if user deselects all, keep last selection
+    if len(selected_branches) == 0:
+        selected_branches = st.session_state.last_selected_branches
+    else:
+        st.session_state.last_selected_branches = selected_branches
+
+    # Filter dataframe by selection
+    filtered_df = df_course_overtime[df_course_overtime['branch'].isin(selected_branches)]
+
+    # --------------------------------------------------
+    # MATPLOTLIB VISUALIZATION
+    # --------------------------------------------------
+    fig, ax = plt.subplots(figsize=(14, 7))
+
+    for branch in selected_branches:
+        data = filtered_df[filtered_df['branch'] == branch]
+        if data.empty:
+            continue
+        ax.plot(
+            data['month'],
+            data['active_courses'],
+            marker='o',
+            linewidth=2,
+            label=f"{branch.title()} (Active)"
+        )
+        ax.plot(
+            data['month'],
+            data['inactive_courses'],
+            linestyle='--',
+            linewidth=1.5,
+            label=f"{branch.title()} (Inactive)"
+        )
+
+    # --------------------------------------------------
+    # STYLING
+    # --------------------------------------------------
+    ax.set_title("Course Activity by Branch (Active vs Inactive)", fontsize=16, weight='bold', pad=20)
+    ax.set_xlabel("Month (2025)", fontsize=12)
+    ax.set_ylabel("Number of Courses", fontsize=12)
+    ax.grid(True, linestyle='--', alpha=0.4)
+    ax.legend(title="Branches", bbox_to_anchor=(1.02, 1), loc='upper left', fontsize=10)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+
+    st.pyplot(fig)
+
+    # --------------------------------------------------
+    # SUMMARY TABLE
+    # --------------------------------------------------
+    # st.subheader("📊 Summary Table")
+    # st.dataframe(
+    #     filtered_df[
+    #         ['month', 'branch', 'active_courses', 'inactive_courses', 'total_courses', 'avg_rating', 'total_students']
+    #     ].sort_values(by=['month', 'branch']).reset_index(drop=True)
+    # )
+            
+    
+
+
+
+    # 1.version with expert filter
+    # -------------------------------------------------
     # 2️⃣ Clean + inspect
     # -------------------------------------------------
     if df.empty:
@@ -97,7 +196,7 @@ def show_visualize_courses():
         else:
             st.warning("⚠️ No expert name starts with that input. Showing analytics for all experts.")
             filtered_df = df
-   
+
     # -------------------------------------------------
     # 3️⃣ Scrollable Data Table (Dynamic Height)
     # -------------------------------------------------
@@ -113,6 +212,18 @@ def show_visualize_courses():
         st.markdown('</div>', unsafe_allow_html=True)
 
     st.markdown("---")
+
+
+    # VISUALIZATION FOR COURSE ACTIVITY OVER TIME
+    st.set_page_config(page_title="📈 Course Trends Over Time", layout="wide")
+    st.markdown("<h1 style='color:#19e526;'>📈 Course Activity by Branch Over Time</h1>", unsafe_allow_html=True)
+    st.caption("Visualization of active and inactive courses by branch, month, and total engagement.")
+
+
+
+
+
+
 
     # -------------------------------------------------
     # 4️⃣ Visualization Grid Layout (3 columns per row)
